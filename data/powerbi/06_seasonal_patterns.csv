@@ -1,0 +1,25 @@
+TechSector,Month,MonthName,MonthAbbr,Season,AvgEmployment,MedianEmployment,SeasonalIndex,SeasonalCategory
+Information & Culture,1,January,Jan,Winter,768413.3333333334,758700,99.9510620101265,Average
+Information & Culture,2,February,Feb,Winter,773893.3333333334,767800,100.66387085408483,Average
+Information & Culture,3,March,Mar,Spring,767813.3333333334,758400,99.87301724618946,Average
+Information & Culture,4,April,Apr,Spring,764253.3333333334,760000,99.40995164682968,Average
+Information & Culture,5,May,May,Spring,766180,759700,99.66056205547196,Average
+Information & Culture,6,June,Jun,Summer,764500,764000,99.44203671644824,Average
+Information & Culture,7,July,Jul,Summer,765807.1428571428,767000,99.61206280931108,Average
+Information & Culture,8,August,Aug,Summer,766835.7142857143,763600,99.74585383320316,Average
+Information & Culture,9,September,Sep,Fall,771142.8571428572,760400,100.30610374575122,Average
+Information & Culture,10,October,Oct,Fall,771450,764350,100.34605523205231,Average
+Information & Culture,11,November,Nov,Fall,771792.8571428572,763400,100.39065224001635,Average
+Information & Culture,12,December,Dec,Winter,773392.8571428572,770400,100.59877161051512,Average
+Professional & Technical Services,1,January,Jan,Winter,1535713.3333333333,1439100,99.92379450387804,Average
+Professional & Technical Services,2,February,Feb,Winter,1537573.3333333333,1433700,100.04481856074014,Average
+Professional & Technical Services,3,March,Mar,Spring,1541286.6666666667,1443600,100.28643289648275,Average
+Professional & Technical Services,4,April,Apr,Spring,1540260,1460700,100.21963108731873,Average
+Professional & Technical Services,5,May,May,Spring,1545166.6666666667,1471200,100.538891681765,Average
+Professional & Technical Services,6,June,Jun,Summer,1517121.4285714286,1457700,98.7140806656633,Average
+Professional & Technical Services,7,July,Jul,Summer,1523950,1468100,99.15839325537206,Average
+Professional & Technical Services,8,August,Aug,Summer,1528614.2857142857,1457400,99.46188292177357,Average
+Professional & Technical Services,9,September,Sep,Fall,1535535.7142857143,1461350,99.91223741908298,Average
+Professional & Technical Services,10,October,Oct,Fall,1540478.5714285714,1466100,100.2338528082864,Average
+Professional & Technical Services,11,November,Nov,Fall,1546228.5714285714,1475650,100.60798631740309,Average
+Professional & Technical Services,12,December,Dec,Winter,1550685.7142857143,1476250,100.89799788223392,Average

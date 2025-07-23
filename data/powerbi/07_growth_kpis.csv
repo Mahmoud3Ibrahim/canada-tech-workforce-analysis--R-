@@ -1,0 +1,3 @@
+TechSector,AvgGrowthRate,MedianGrowthRate,MinGrowthRate,MaxGrowthRate,GrowthVolatility,CoefficientVariation,YearsPositiveGrowth,YearsNegativeGrowth,GrowthRating,VolatilityRating,StabilityScore
+Information & Culture,0.9792253117604399,0.6619897429048227,-12.932610578310932,12.98565172831454,5.50402226813674,5.620792479558839,9,5,Fair,High,64.28571428571429
+Professional & Technical Services,3.321857593278537,2.6419445700613164,0.49785137826225956,8.521800139257252,2.44528870915519,0.7361208722803166,14,0,Excellent,Moderate,100

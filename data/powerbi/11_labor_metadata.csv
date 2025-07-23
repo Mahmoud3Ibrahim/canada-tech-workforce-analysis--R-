@@ -1,0 +1,5 @@
+LaborType,TypeCode,Units,Description,ChartOrder
+Employment,EMP,Persons,Total number of employed persons,1
+Unemployment,UNEMP,Persons,Total number of unemployed persons,3
+Unemployment Rate,URATE,Percentage,Unemployment rate as percentage of labor force,4
+Labor Force,LF,Persons,Total labor force (employed + unemployed),2

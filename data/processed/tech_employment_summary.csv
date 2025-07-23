@@ -1,0 +1,9 @@
+tech_sector,labor_type,min_value,max_value,mean_value,median_value,records_count
+Information & Culture,Employment,582100,867300,768769.9421965318,763400,173
+Information & Culture,Labor Force,698500,933500,823869.9421965318,813500,173
+Information & Culture,Unemployment,36500,201500,55096.53179190752,49800,173
+Information & Culture,Unemployment Rate,4.3,23.7,6.716184971098266,6,173
+Professional & Technical Services,Employment,1258700,2019000,1536974.5664739884,1459100,173
+Professional & Technical Services,Labor Force,1299800,2099200,1588802.3121387283,1500700,173
+Professional & Technical Services,Unemployment,25800,120900,51833.526011560694,46900,173
+Professional & Technical Services,Unemployment Rate,1.4,7.5,3.2797687861271676,3.2,173

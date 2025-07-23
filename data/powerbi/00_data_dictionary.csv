@@ -1,0 +1,61 @@
+TableName,ColumnName,DataType,Description
+01_main_employment_data,Date,Date/Numeric,Primary data table with all employment metrics
+01_main_employment_data,TechSector,Text,Primary data table with all employment metrics
+01_main_employment_data,LaborType,Numeric,Primary data table with all employment metrics
+01_main_employment_data,Value,Numeric,Primary data table with all employment metrics
+01_main_employment_data,Units,Text,Primary data table with all employment metrics
+02_employment_trends,Date,Date/Numeric,Time series data with calculations
+02_employment_trends,TechSector,Text,Time series data with calculations
+02_employment_trends,Employment,Numeric,Time series data with calculations
+02_employment_trends,YoYGrowth,Numeric,Time series data with calculations
+02_employment_trends,MA_12Month,Text,Time series data with calculations
+03_annual_summary,Year,Date/Numeric,Annual aggregated data
+03_annual_summary,TechSector,Text,Annual aggregated data
+03_annual_summary,AvgEmployment,Numeric,Annual aggregated data
+03_annual_summary,AnnualGrowth,Numeric,Annual aggregated data
+03_annual_summary,GrowthCategory,Text,Annual aggregated data
+04_sector_comparison,Year,Date/Numeric,Sector comparison metrics
+04_sector_comparison,ProfessionalTechnical,Text,Sector comparison metrics
+04_sector_comparison,InformationCulture,Numeric,Sector comparison metrics
+04_sector_comparison,TotalTechEmployment,Numeric,Sector comparison metrics
+04_sector_comparison,DominantSector,Text,Sector comparison metrics
+05_unemployment_analysis,Date,Date/Numeric,Unemployment analysis
+05_unemployment_analysis,TechSector,Text,Unemployment analysis
+05_unemployment_analysis,UnemploymentRate,Numeric,Unemployment analysis
+05_unemployment_analysis,UnemploymentLevel,Numeric,Unemployment analysis
+05_unemployment_analysis,RateChange,Text,Unemployment analysis
+06_seasonal_patterns,Month,Date/Numeric,Seasonal pattern analysis
+06_seasonal_patterns,TechSector,Text,Seasonal pattern analysis
+06_seasonal_patterns,SeasonalIndex,Numeric,Seasonal pattern analysis
+06_seasonal_patterns,Season,Numeric,Seasonal pattern analysis
+06_seasonal_patterns,SeasonalCategory,Text,Seasonal pattern analysis
+07_growth_kpis,TechSector,Date/Numeric,Key performance indicators
+07_growth_kpis,AvgGrowthRate,Text,Key performance indicators
+07_growth_kpis,GrowthVolatility,Numeric,Key performance indicators
+07_growth_kpis,GrowthRating,Numeric,Key performance indicators
+07_growth_kpis,StabilityScore,Text,Key performance indicators
+08_recent_trends,Date,Date/Numeric,Recent trends and recovery analysis
+08_recent_trends,TechSector,Text,Recent trends and recovery analysis
+08_recent_trends,TrendIndex,Numeric,Recent trends and recovery analysis
+08_recent_trends,RecoveryLevel,Numeric,Recent trends and recovery analysis
+08_recent_trends,PandemicPeriod,Text,Recent trends and recovery analysis
+09_calendar_table,Date,Date/Numeric,Calendar table for time intelligence
+09_calendar_table,Year,Text,Calendar table for time intelligence
+09_calendar_table,Month,Numeric,Calendar table for time intelligence
+09_calendar_table,Quarter,Numeric,Calendar table for time intelligence
+09_calendar_table,Season,Text,Calendar table for time intelligence
+10_sector_metadata,TechSector,Date/Numeric,Sector reference data
+10_sector_metadata,SectorCode,Text,Sector reference data
+10_sector_metadata,SectorDescription,Numeric,Sector reference data
+10_sector_metadata,SectorColor,Numeric,Sector reference data
+10_sector_metadata,SectorOrder,Text,Sector reference data
+11_labor_metadata,LaborType,Date/Numeric,Labor type reference data
+11_labor_metadata,TypeCode,Text,Labor type reference data
+11_labor_metadata,Units,Numeric,Labor type reference data
+11_labor_metadata,Description,Numeric,Labor type reference data
+11_labor_metadata,ChartOrder,Text,Labor type reference data
+12_executive_summary,Metric,Date/Numeric,Executive summary metrics
+12_executive_summary,Value,Text,Executive summary metrics
+12_executive_summary,FormattedValue,Numeric,Executive summary metrics
+12_executive_summary,Category,Numeric,Executive summary metrics
+12_executive_summary,Importance,Text,Executive summary metrics

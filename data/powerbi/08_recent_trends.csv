@@ -1,0 +1,131 @@
+Date,Year,Month,TechSector,Employment,TrendIndex,RecoveryIndicator,DateFormatted,Quarter,YearQuarter,RecoveryLevel,PandemicPeriod
+2020-01-01,2020,1,Information & Culture,782600,100,Near pre-2020 levels,2020-01-01,Q1,2020-Q1,Full Recovery,Pre-Pandemic
+2020-02-01,2020,2,Information & Culture,780700,99.7572195246614,Near pre-2020 levels,2020-02-01,Q1,2020-Q1,Near Recovery,Pre-Pandemic
+2020-03-01,2020,3,Information & Culture,660500,84.39815997955533,Below pre-2020 levels,2020-03-01,Q1,2020-Q1,Weak Recovery,Pandemic Impact
+2020-04-01,2020,4,Information & Culture,582100,74.3802708918988,Below pre-2020 levels,2020-04-01,Q2,2020-Q2,Weak Recovery,Pandemic Impact
+2020-05-01,2020,5,Information & Culture,586500,74.94249936110401,Below pre-2020 levels,2020-05-01,Q2,2020-Q2,Weak Recovery,Pandemic Impact
+2020-06-01,2020,6,Information & Culture,649200,82.95425504727831,Below pre-2020 levels,2020-06-01,Q2,2020-Q2,Weak Recovery,Pandemic Impact
+2020-07-01,2020,7,Information & Culture,661700,84.5514950166113,Below pre-2020 levels,2020-07-01,Q3,2020-Q3,Weak Recovery,Pandemic Impact
+2020-08-01,2020,8,Information & Culture,666500,85.16483516483517,Below pre-2020 levels,2020-08-01,Q3,2020-Q3,Weak Recovery,Pandemic Impact
+2020-09-01,2020,9,Information & Culture,722400,92.3076923076923,Below pre-2020 levels,2020-09-01,Q3,2020-Q3,Partial Recovery,Pandemic Impact
+2020-10-01,2020,10,Information & Culture,705400,90.13544594939944,Below pre-2020 levels,2020-10-01,Q4,2020-Q4,Partial Recovery,Pandemic Impact
+2020-11-01,2020,11,Information & Culture,680700,86.97929976999744,Below pre-2020 levels,2020-11-01,Q4,2020-Q4,Weak Recovery,Pandemic Impact
+2020-12-01,2020,12,Information & Culture,665200,84.99872220802453,Below pre-2020 levels,2020-12-01,Q4,2020-Q4,Weak Recovery,Pandemic Impact
+2021-01-01,2021,1,Information & Culture,645100,82.43036033733708,Below pre-2020 levels,2021-01-01,Q1,2021-Q1,Weak Recovery,Recovery Phase
+2021-02-01,2021,2,Information & Culture,644600,82.36647073856376,Below pre-2020 levels,2021-02-01,Q1,2021-Q1,Weak Recovery,Recovery Phase
+2021-03-01,2021,3,Information & Culture,696900,89.049322770253,Below pre-2020 levels,2021-03-01,Q1,2021-Q1,Weak Recovery,Recovery Phase
+2021-04-01,2021,4,Information & Culture,679000,86.76207513416816,Below pre-2020 levels,2021-04-01,Q2,2021-Q2,Weak Recovery,Recovery Phase
+2021-05-01,2021,5,Information & Culture,683400,87.32430360337337,Below pre-2020 levels,2021-05-01,Q2,2021-Q2,Weak Recovery,Recovery Phase
+2021-06-01,2021,6,Information & Culture,704700,90.04600051111679,Below pre-2020 levels,2021-06-01,Q2,2021-Q2,Partial Recovery,Recovery Phase
+2021-07-01,2021,7,Information & Culture,716400,91.54101712241247,Below pre-2020 levels,2021-07-01,Q3,2021-Q3,Partial Recovery,Recovery Phase
+2021-08-01,2021,8,Information & Culture,733600,93.73881932021467,Below pre-2020 levels,2021-08-01,Q3,2021-Q3,Partial Recovery,Recovery Phase
+2021-09-01,2021,9,Information & Culture,749700,95.79606440071557,Near pre-2020 levels,2021-09-01,Q3,2021-Q3,Near Recovery,Recovery Phase
+2021-10-01,2021,10,Information & Culture,766800,97.9810886787631,Near pre-2020 levels,2021-10-01,Q4,2021-Q4,Near Recovery,Recovery Phase
+2021-11-01,2021,11,Information & Culture,783500,100.11500127779198,Above pre-2020 levels,2021-11-01,Q4,2021-Q4,Full Recovery,Recovery Phase
+2021-12-01,2021,12,Information & Culture,782700,100.01277791975467,Above pre-2020 levels,2021-12-01,Q4,2021-Q4,Full Recovery,Recovery Phase
+2022-01-01,2022,1,Information & Culture,738400,94.35215946843853,Below pre-2020 levels,2022-01-01,Q1,2022-Q1,Partial Recovery,Recovery Phase
+2022-02-01,2022,2,Information & Culture,813900,103.99948888320982,Above pre-2020 levels,2022-02-01,Q1,2022-Q1,Full Recovery,Recovery Phase
+2022-03-01,2022,3,Information & Culture,809700,103.46281625351392,Above pre-2020 levels,2022-03-01,Q1,2022-Q1,Full Recovery,Recovery Phase
+2022-04-01,2022,4,Information & Culture,818400,104.57449527216968,Above pre-2020 levels,2022-04-01,Q2,2022-Q2,Full Recovery,Recovery Phase
+2022-05-01,2022,5,Information & Culture,833000,106.44007155635063,Above pre-2020 levels,2022-05-01,Q2,2022-Q2,Strong Recovery,Recovery Phase
+2022-06-01,2022,6,Information & Culture,815800,104.24226935854844,Above pre-2020 levels,2022-06-01,Q2,2022-Q2,Full Recovery,Recovery Phase
+2022-07-01,2022,7,Information & Culture,817000,104.39560439560441,Above pre-2020 levels,2022-07-01,Q3,2022-Q3,Full Recovery,Recovery Phase
+2022-08-01,2022,8,Information & Culture,808600,103.32225913621262,Above pre-2020 levels,2022-08-01,Q3,2022-Q3,Full Recovery,Recovery Phase
+2022-09-01,2022,9,Information & Culture,806700,103.07947866087402,Above pre-2020 levels,2022-09-01,Q3,2022-Q3,Full Recovery,Recovery Phase
+2022-10-01,2022,10,Information & Culture,801900,102.46613851265013,Above pre-2020 levels,2022-10-01,Q4,2022-Q4,Full Recovery,Recovery Phase
+2022-11-01,2022,11,Information & Culture,808900,103.36059289547661,Above pre-2020 levels,2022-11-01,Q4,2022-Q4,Full Recovery,Recovery Phase
+2022-12-01,2022,12,Information & Culture,829100,105.94173268591874,Above pre-2020 levels,2022-12-01,Q4,2022-Q4,Strong Recovery,Recovery Phase
+2023-01-01,2023,1,Information & Culture,836300,106.86174290825454,Above pre-2020 levels,2023-01-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-02-01,2023,2,Information & Culture,831400,106.235624840276,Above pre-2020 levels,2023-02-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-03-01,2023,3,Information & Culture,840200,107.36008177868644,Above pre-2020 levels,2023-03-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-04-01,2023,4,Information & Culture,849700,108.5739841553795,Above pre-2020 levels,2023-04-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-05-01,2023,5,Information & Culture,853000,108.9956555072834,Above pre-2020 levels,2023-05-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-06-01,2023,6,Information & Culture,863400,110.32455916176846,Above pre-2020 levels,2023-06-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-07-01,2023,7,Information & Culture,849500,108.54842831587017,Above pre-2020 levels,2023-07-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-08-01,2023,8,Information & Culture,849000,108.48453871709684,Above pre-2020 levels,2023-08-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-09-01,2023,9,Information & Culture,826600,105.62228469205212,Above pre-2020 levels,2023-09-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-10-01,2023,10,Information & Culture,846400,108.1523128034756,Above pre-2020 levels,2023-10-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2023-11-01,2023,11,Information & Culture,848200,108.38231535905956,Above pre-2020 levels,2023-11-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2023-12-01,2023,12,Information & Culture,849300,108.52287247636086,Above pre-2020 levels,2023-12-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2024-01-01,2024,1,Information & Culture,839400,107.25785842064911,Above pre-2020 levels,2024-01-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-02-01,2024,2,Information & Culture,843400,107.76897521083568,Above pre-2020 levels,2024-02-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-03-01,2024,3,Information & Culture,836400,106.8745208280092,Above pre-2020 levels,2024-03-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-04-01,2024,4,Information & Culture,845600,108.05008944543827,Above pre-2020 levels,2024-04-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-05-01,2024,5,Information & Culture,835700,106.78507538972654,Above pre-2020 levels,2024-05-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-06-01,2024,6,Information & Culture,831900,106.29951443904932,Above pre-2020 levels,2024-06-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-07-01,2024,7,Information & Culture,838800,107.18119090212113,Above pre-2020 levels,2024-07-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-08-01,2024,8,Information & Culture,839200,107.23230258113978,Above pre-2020 levels,2024-08-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-09-01,2024,9,Information & Culture,860200,109.91566572961922,Above pre-2020 levels,2024-09-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-10-01,2024,10,Information & Culture,855200,109.27676974188603,Above pre-2020 levels,2024-10-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2024-11-01,2024,11,Information & Culture,854000,109.12343470483006,Above pre-2020 levels,2024-11-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2024-12-01,2024,12,Information & Culture,855100,109.26399182213136,Above pre-2020 levels,2024-12-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2025-01-01,2025,1,Information & Culture,852500,108.9317659085101,Above pre-2020 levels,2025-01-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-02-01,2025,2,Information & Culture,855700,109.34065934065933,Above pre-2020 levels,2025-02-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-03-01,2025,3,Information & Culture,835400,106.74674163046257,Above pre-2020 levels,2025-03-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-04-01,2025,4,Information & Culture,848000,108.35675951955022,Above pre-2020 levels,2025-04-01,Q2,2025-Q2,Strong Recovery,Post-Recovery
+2025-05-01,2025,5,Information & Culture,867300,110.82289803220036,Above pre-2020 levels,2025-05-01,Q2,2025-Q2,Strong Recovery,Post-Recovery
+2020-01-01,2020,1,Professional & Technical Services,1574000,100,Near pre-2020 levels,2020-01-01,Q1,2020-Q1,Full Recovery,Pre-Pandemic
+2020-02-01,2020,2,Professional & Technical Services,1565500,99.4599745870394,Near pre-2020 levels,2020-02-01,Q1,2020-Q1,Near Recovery,Pre-Pandemic
+2020-03-01,2020,3,Professional & Technical Services,1587700,100.87039390088945,Above pre-2020 levels,2020-03-01,Q1,2020-Q1,Full Recovery,Pandemic Impact
+2020-04-01,2020,4,Professional & Technical Services,1495700,95.02541296060991,Near pre-2020 levels,2020-04-01,Q2,2020-Q2,Near Recovery,Pandemic Impact
+2020-05-01,2020,5,Professional & Technical Services,1497100,95.1143583227446,Near pre-2020 levels,2020-05-01,Q2,2020-Q2,Near Recovery,Pandemic Impact
+2020-06-01,2020,6,Professional & Technical Services,1503800,95.5400254129606,Near pre-2020 levels,2020-06-01,Q2,2020-Q2,Near Recovery,Pandemic Impact
+2020-07-01,2020,7,Professional & Technical Services,1543500,98.06226175349428,Near pre-2020 levels,2020-07-01,Q3,2020-Q3,Near Recovery,Pandemic Impact
+2020-08-01,2020,8,Professional & Technical Services,1565200,99.44091486658195,Near pre-2020 levels,2020-08-01,Q3,2020-Q3,Near Recovery,Pandemic Impact
+2020-09-01,2020,9,Professional & Technical Services,1592300,101.16264294790342,Above pre-2020 levels,2020-09-01,Q3,2020-Q3,Full Recovery,Pandemic Impact
+2020-10-01,2020,10,Professional & Technical Services,1628200,103.44345616264295,Above pre-2020 levels,2020-10-01,Q4,2020-Q4,Full Recovery,Pandemic Impact
+2020-11-01,2020,11,Professional & Technical Services,1619800,102.9097839898348,Above pre-2020 levels,2020-11-01,Q4,2020-Q4,Full Recovery,Pandemic Impact
+2020-12-01,2020,12,Professional & Technical Services,1641300,104.27573062261753,Above pre-2020 levels,2020-12-01,Q4,2020-Q4,Full Recovery,Pandemic Impact
+2021-01-01,2021,1,Professional & Technical Services,1668200,105.98475222363406,Above pre-2020 levels,2021-01-01,Q1,2021-Q1,Strong Recovery,Recovery Phase
+2021-02-01,2021,2,Professional & Technical Services,1653700,105.06353240152477,Above pre-2020 levels,2021-02-01,Q1,2021-Q1,Strong Recovery,Recovery Phase
+2021-03-01,2021,3,Professional & Technical Services,1659800,105.45108005082594,Above pre-2020 levels,2021-03-01,Q1,2021-Q1,Strong Recovery,Recovery Phase
+2021-04-01,2021,4,Professional & Technical Services,1673700,106.33418043202032,Above pre-2020 levels,2021-04-01,Q2,2021-Q2,Strong Recovery,Recovery Phase
+2021-05-01,2021,5,Professional & Technical Services,1690300,107.38881829733164,Above pre-2020 levels,2021-05-01,Q2,2021-Q2,Strong Recovery,Recovery Phase
+2021-06-01,2021,6,Professional & Technical Services,1709400,108.6022871664549,Above pre-2020 levels,2021-06-01,Q2,2021-Q2,Strong Recovery,Recovery Phase
+2021-07-01,2021,7,Professional & Technical Services,1716100,109.02795425667091,Above pre-2020 levels,2021-07-01,Q3,2021-Q3,Strong Recovery,Recovery Phase
+2021-08-01,2021,8,Professional & Technical Services,1715600,108.99618805590852,Above pre-2020 levels,2021-08-01,Q3,2021-Q3,Strong Recovery,Recovery Phase
+2021-09-01,2021,9,Professional & Technical Services,1719500,109.24396442185515,Above pre-2020 levels,2021-09-01,Q3,2021-Q3,Strong Recovery,Recovery Phase
+2021-10-01,2021,10,Professional & Technical Services,1715300,108.97712833545108,Above pre-2020 levels,2021-10-01,Q4,2021-Q4,Strong Recovery,Recovery Phase
+2021-11-01,2021,11,Professional & Technical Services,1750000,111.18170266836087,Above pre-2020 levels,2021-11-01,Q4,2021-Q4,Strong Recovery,Recovery Phase
+2021-12-01,2021,12,Professional & Technical Services,1745800,110.9148665819568,Above pre-2020 levels,2021-12-01,Q4,2021-Q4,Strong Recovery,Recovery Phase
+2022-01-01,2022,1,Professional & Technical Services,1735400,110.2541296060991,Above pre-2020 levels,2022-01-01,Q1,2022-Q1,Strong Recovery,Recovery Phase
+2022-02-01,2022,2,Professional & Technical Services,1780100,113.09402795425667,Above pre-2020 levels,2022-02-01,Q1,2022-Q1,Strong Recovery,Recovery Phase
+2022-03-01,2022,3,Professional & Technical Services,1780700,113.13214739517154,Above pre-2020 levels,2022-03-01,Q1,2022-Q1,Strong Recovery,Recovery Phase
+2022-04-01,2022,4,Professional & Technical Services,1802900,114.54256670902161,Above pre-2020 levels,2022-04-01,Q2,2022-Q2,Strong Recovery,Recovery Phase
+2022-05-01,2022,5,Professional & Technical Services,1813000,115.18424396442187,Above pre-2020 levels,2022-05-01,Q2,2022-Q2,Strong Recovery,Recovery Phase
+2022-06-01,2022,6,Professional & Technical Services,1835200,116.59466327827192,Above pre-2020 levels,2022-06-01,Q2,2022-Q2,Strong Recovery,Recovery Phase
+2022-07-01,2022,7,Professional & Technical Services,1835200,116.59466327827192,Above pre-2020 levels,2022-07-01,Q3,2022-Q3,Strong Recovery,Recovery Phase
+2022-08-01,2022,8,Professional & Technical Services,1833800,116.50571791613721,Above pre-2020 levels,2022-08-01,Q3,2022-Q3,Strong Recovery,Recovery Phase
+2022-09-01,2022,9,Professional & Technical Services,1837600,116.74714104193139,Above pre-2020 levels,2022-09-01,Q3,2022-Q3,Strong Recovery,Recovery Phase
+2022-10-01,2022,10,Professional & Technical Services,1856000,117.91613722998729,Above pre-2020 levels,2022-10-01,Q4,2022-Q4,Strong Recovery,Recovery Phase
+2022-11-01,2022,11,Professional & Technical Services,1852100,117.66836086404066,Above pre-2020 levels,2022-11-01,Q4,2022-Q4,Strong Recovery,Recovery Phase
+2022-12-01,2022,12,Professional & Technical Services,1862100,118.30368487928844,Above pre-2020 levels,2022-12-01,Q4,2022-Q4,Strong Recovery,Recovery Phase
+2023-01-01,2023,1,Professional & Technical Services,1870300,118.82465057179161,Above pre-2020 levels,2023-01-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-02-01,2023,2,Professional & Technical Services,1862200,118.31003811944092,Above pre-2020 levels,2023-02-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-03-01,2023,3,Professional & Technical Services,1877200,119.26302414231257,Above pre-2020 levels,2023-03-01,Q1,2023-Q1,Strong Recovery,Post-Recovery
+2023-04-01,2023,4,Professional & Technical Services,1866700,118.59593392630241,Above pre-2020 levels,2023-04-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-05-01,2023,5,Professional & Technical Services,1865900,118.5451080050826,Above pre-2020 levels,2023-05-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-06-01,2023,6,Professional & Technical Services,1871600,118.90724269377382,Above pre-2020 levels,2023-06-01,Q2,2023-Q2,Strong Recovery,Post-Recovery
+2023-07-01,2023,7,Professional & Technical Services,1871100,118.87547649301145,Above pre-2020 levels,2023-07-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-08-01,2023,8,Professional & Technical Services,1915900,121.72172808132147,Above pre-2020 levels,2023-08-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-09-01,2023,9,Professional & Technical Services,1922900,122.16645489199492,Above pre-2020 levels,2023-09-01,Q3,2023-Q3,Strong Recovery,Post-Recovery
+2023-10-01,2023,10,Professional & Technical Services,1926400,122.38881829733164,Above pre-2020 levels,2023-10-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2023-11-01,2023,11,Professional & Technical Services,1930600,122.65565438373571,Above pre-2020 levels,2023-11-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2023-12-01,2023,12,Professional & Technical Services,1960400,124.54891994917408,Above pre-2020 levels,2023-12-01,Q4,2023-Q4,Strong Recovery,Post-Recovery
+2024-01-01,2024,1,Professional & Technical Services,1953500,124.11054637865311,Above pre-2020 levels,2024-01-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-02-01,2024,2,Professional & Technical Services,1963800,124.76493011435832,Above pre-2020 levels,2024-02-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-03-01,2024,3,Professional & Technical Services,1946700,123.67852604828462,Above pre-2020 levels,2024-03-01,Q1,2024-Q1,Strong Recovery,Post-Recovery
+2024-04-01,2024,4,Professional & Technical Services,1967200,124.98094027954257,Above pre-2020 levels,2024-04-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-05-01,2024,5,Professional & Technical Services,1968500,125.06353240152477,Above pre-2020 levels,2024-05-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-06-01,2024,6,Professional & Technical Services,1960800,124.57433290978399,Above pre-2020 levels,2024-06-01,Q2,2024-Q2,Strong Recovery,Post-Recovery
+2024-07-01,2024,7,Professional & Technical Services,1982000,125.92121982210926,Above pre-2020 levels,2024-07-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-08-01,2024,8,Professional & Technical Services,1965300,124.86022871664548,Above pre-2020 levels,2024-08-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-09-01,2024,9,Professional & Technical Services,1987100,126.24523506988564,Above pre-2020 levels,2024-09-01,Q3,2024-Q3,Strong Recovery,Post-Recovery
+2024-10-01,2024,10,Professional & Technical Services,1994800,126.73443456162643,Above pre-2020 levels,2024-10-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2024-11-01,2024,11,Professional & Technical Services,2015300,128.03684879288437,Above pre-2020 levels,2024-11-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2024-12-01,2024,12,Professional & Technical Services,1997300,126.89326556543838,Above pre-2020 levels,2024-12-01,Q4,2024-Q4,Strong Recovery,Post-Recovery
+2025-01-01,2025,1,Professional & Technical Services,2019000,128.27191867852605,Above pre-2020 levels,2025-01-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-02-01,2025,2,Professional & Technical Services,1986100,126.18170266836086,Above pre-2020 levels,2025-02-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-03-01,2025,3,Professional & Technical Services,1995700,126.79161372299872,Above pre-2020 levels,2025-03-01,Q1,2025-Q1,Strong Recovery,Post-Recovery
+2025-04-01,2025,4,Professional & Technical Services,2001900,127.18551461245235,Above pre-2020 levels,2025-04-01,Q2,2025-Q2,Strong Recovery,Post-Recovery
+2025-05-01,2025,5,Professional & Technical Services,2011800,127.81448538754765,Above pre-2020 levels,2025-05-01,Q2,2025-Q2,Strong Recovery,Post-Recovery

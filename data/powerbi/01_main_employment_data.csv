@@ -1,0 +1,1039 @@
+Date,Year,Month,YearMonth,TechSector,LaborType,Value,Units,DateFormatted,Quarter,YearQuarter,Semester,YearSemester
+2011-01-01,2011,1,2011-01,Information & Culture,Employment,772200,Persons,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-01-01,2011,1,2011-01,Information & Culture,Unemployment,60900,Persons,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-01-01,2011,1,2011-01,Information & Culture,Unemployment Rate,7.3,Percentage,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-01-01,2011,1,2011-01,Professional & Technical Services,Employment,1258700,Persons,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-01-01,2011,1,2011-01,Professional & Technical Services,Unemployment,41200,Persons,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-01-01,2011,1,2011-01,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2011-01-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Information & Culture,Employment,766900,Persons,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Information & Culture,Unemployment,69100,Persons,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Information & Culture,Unemployment Rate,8.3,Percentage,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Professional & Technical Services,Employment,1264900,Persons,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Professional & Technical Services,Unemployment,43700,Persons,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-02-01,2011,2,2011-02,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2011-02-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Information & Culture,Employment,755900,Persons,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Information & Culture,Unemployment,67700,Persons,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Information & Culture,Unemployment Rate,8.2,Percentage,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Professional & Technical Services,Employment,1269800,Persons,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Professional & Technical Services,Unemployment,45900,Persons,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-03-01,2011,3,2011-03,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2011-03-01,Q1,2011-Q1,H1,2011-H1
+2011-04-01,2011,4,2011-04,Information & Culture,Employment,760000,Persons,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-04-01,2011,4,2011-04,Information & Culture,Unemployment,57900,Persons,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-04-01,2011,4,2011-04,Information & Culture,Unemployment Rate,7.1,Percentage,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-04-01,2011,4,2011-04,Professional & Technical Services,Employment,1273500,Persons,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-04-01,2011,4,2011-04,Professional & Technical Services,Unemployment,42600,Persons,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-04-01,2011,4,2011-04,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2011-04-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Information & Culture,Employment,756900,Persons,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Information & Culture,Unemployment,60200,Persons,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Information & Culture,Unemployment Rate,7.4,Percentage,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Professional & Technical Services,Employment,1273800,Persons,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Professional & Technical Services,Unemployment,38700,Persons,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-05-01,2011,5,2011-05,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2011-05-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Information & Culture,Employment,767800,Persons,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Information & Culture,Unemployment,50700,Persons,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Information & Culture,Unemployment Rate,6.2,Percentage,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Professional & Technical Services,Employment,1262400,Persons,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Professional & Technical Services,Unemployment,41400,Persons,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-06-01,2011,6,2011-06,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2011-06-01,Q2,2011-Q2,H1,2011-H1
+2011-07-01,2011,7,2011-07,Information & Culture,Employment,770400,Persons,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-07-01,2011,7,2011-07,Information & Culture,Unemployment,53000,Persons,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-07-01,2011,7,2011-07,Information & Culture,Unemployment Rate,6.4,Percentage,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-07-01,2011,7,2011-07,Professional & Technical Services,Employment,1263300,Persons,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-07-01,2011,7,2011-07,Professional & Technical Services,Unemployment,39500,Persons,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-07-01,2011,7,2011-07,Professional & Technical Services,Unemployment Rate,3,Percentage,2011-07-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Information & Culture,Employment,762300,Persons,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Information & Culture,Unemployment,55900,Persons,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Information & Culture,Unemployment Rate,6.8,Percentage,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Professional & Technical Services,Employment,1261800,Persons,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Professional & Technical Services,Unemployment,43300,Persons,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-08-01,2011,8,2011-08,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2011-08-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Information & Culture,Employment,751600,Persons,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Information & Culture,Unemployment,60600,Persons,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Information & Culture,Unemployment Rate,7.5,Percentage,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Professional & Technical Services,Employment,1277700,Persons,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Professional & Technical Services,Unemployment,32100,Persons,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-09-01,2011,9,2011-09,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2011-09-01,Q3,2011-Q3,H2,2011-H2
+2011-10-01,2011,10,2011-10,Information & Culture,Employment,745000,Persons,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-10-01,2011,10,2011-10,Information & Culture,Unemployment,58200,Persons,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-10-01,2011,10,2011-10,Information & Culture,Unemployment Rate,7.2,Percentage,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-10-01,2011,10,2011-10,Professional & Technical Services,Employment,1280300,Persons,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-10-01,2011,10,2011-10,Professional & Technical Services,Unemployment,48700,Persons,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-10-01,2011,10,2011-10,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2011-10-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Information & Culture,Employment,739500,Persons,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Information & Culture,Unemployment,58500,Persons,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Information & Culture,Unemployment Rate,7.3,Percentage,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Professional & Technical Services,Employment,1285700,Persons,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Professional & Technical Services,Unemployment,42800,Persons,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-11-01,2011,11,2011-11,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2011-11-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Information & Culture,Employment,747100,Persons,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Information & Culture,Unemployment,48000,Persons,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Information & Culture,Unemployment Rate,6,Percentage,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Professional & Technical Services,Employment,1293700,Persons,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Professional & Technical Services,Unemployment,46300,Persons,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2011-12-01,2011,12,2011-12,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2011-12-01,Q4,2011-Q4,H2,2011-H2
+2012-01-01,2012,1,2012-01,Information & Culture,Employment,738600,Persons,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-01-01,2012,1,2012-01,Information & Culture,Unemployment,53200,Persons,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-01-01,2012,1,2012-01,Information & Culture,Unemployment Rate,6.7,Percentage,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-01-01,2012,1,2012-01,Professional & Technical Services,Employment,1291600,Persons,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-01-01,2012,1,2012-01,Professional & Technical Services,Unemployment,40600,Persons,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-01-01,2012,1,2012-01,Professional & Technical Services,Unemployment Rate,3,Percentage,2012-01-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Information & Culture,Employment,742600,Persons,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Information & Culture,Unemployment,47500,Persons,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Information & Culture,Unemployment Rate,6,Percentage,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Professional & Technical Services,Employment,1286500,Persons,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Professional & Technical Services,Unemployment,50800,Persons,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-02-01,2012,2,2012-02,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2012-02-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Information & Culture,Employment,755700,Persons,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Information & Culture,Unemployment,44400,Persons,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Information & Culture,Unemployment Rate,5.5,Percentage,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Professional & Technical Services,Employment,1290500,Persons,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Professional & Technical Services,Unemployment,48600,Persons,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-03-01,2012,3,2012-03,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2012-03-01,Q1,2012-Q1,H1,2012-H1
+2012-04-01,2012,4,2012-04,Information & Culture,Employment,750300,Persons,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-04-01,2012,4,2012-04,Information & Culture,Unemployment,54900,Persons,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-04-01,2012,4,2012-04,Information & Culture,Unemployment Rate,6.8,Percentage,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-04-01,2012,4,2012-04,Professional & Technical Services,Employment,1281000,Persons,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-04-01,2012,4,2012-04,Professional & Technical Services,Unemployment,46600,Persons,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-04-01,2012,4,2012-04,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2012-04-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Information & Culture,Employment,737200,Persons,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Information & Culture,Unemployment,54900,Persons,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Information & Culture,Unemployment Rate,6.9,Percentage,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Professional & Technical Services,Employment,1275200,Persons,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Professional & Technical Services,Unemployment,51800,Persons,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-05-01,2012,5,2012-05,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2012-05-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Information & Culture,Employment,731300,Persons,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Information & Culture,Unemployment,52100,Persons,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Information & Culture,Unemployment Rate,6.7,Percentage,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Professional & Technical Services,Employment,1274800,Persons,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Professional & Technical Services,Unemployment,43300,Persons,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-06-01,2012,6,2012-06,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2012-06-01,Q2,2012-Q2,H1,2012-H1
+2012-07-01,2012,7,2012-07,Information & Culture,Employment,745200,Persons,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-07-01,2012,7,2012-07,Information & Culture,Unemployment,54300,Persons,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-07-01,2012,7,2012-07,Information & Culture,Unemployment Rate,6.8,Percentage,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-07-01,2012,7,2012-07,Professional & Technical Services,Employment,1259100,Persons,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-07-01,2012,7,2012-07,Professional & Technical Services,Unemployment,45500,Persons,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-07-01,2012,7,2012-07,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2012-07-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Information & Culture,Employment,747500,Persons,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Information & Culture,Unemployment,59700,Persons,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Information & Culture,Unemployment Rate,7.4,Percentage,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Professional & Technical Services,Employment,1269400,Persons,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Professional & Technical Services,Unemployment,38900,Persons,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-08-01,2012,8,2012-08,Professional & Technical Services,Unemployment Rate,3,Percentage,2012-08-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Information & Culture,Employment,747100,Persons,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Information & Culture,Unemployment,48600,Persons,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Information & Culture,Unemployment Rate,6.1,Percentage,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Professional & Technical Services,Employment,1281800,Persons,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Professional & Technical Services,Unemployment,41900,Persons,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-09-01,2012,9,2012-09,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2012-09-01,Q3,2012-Q3,H2,2012-H2
+2012-10-01,2012,10,2012-10,Information & Culture,Employment,738300,Persons,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-10-01,2012,10,2012-10,Information & Culture,Unemployment,54100,Persons,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-10-01,2012,10,2012-10,Information & Culture,Unemployment Rate,6.8,Percentage,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-10-01,2012,10,2012-10,Professional & Technical Services,Employment,1282000,Persons,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-10-01,2012,10,2012-10,Professional & Technical Services,Unemployment,40600,Persons,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-10-01,2012,10,2012-10,Professional & Technical Services,Unemployment Rate,3.1,Percentage,2012-10-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Information & Culture,Employment,743500,Persons,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Information & Culture,Unemployment,59800,Persons,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Information & Culture,Unemployment Rate,7.4,Percentage,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Professional & Technical Services,Employment,1281500,Persons,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Professional & Technical Services,Unemployment,49100,Persons,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-11-01,2012,11,2012-11,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2012-11-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Information & Culture,Employment,745800,Persons,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Information & Culture,Unemployment,56900,Persons,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Information & Culture,Unemployment Rate,7.1,Percentage,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Professional & Technical Services,Employment,1268200,Persons,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Professional & Technical Services,Unemployment,44200,Persons,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2012-12-01,2012,12,2012-12,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2012-12-01,Q4,2012-Q4,H2,2012-H2
+2013-01-01,2013,1,2013-01,Information & Culture,Employment,738700,Persons,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-01-01,2013,1,2013-01,Information & Culture,Unemployment,57300,Persons,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-01-01,2013,1,2013-01,Information & Culture,Unemployment Rate,7.2,Percentage,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-01-01,2013,1,2013-01,Professional & Technical Services,Employment,1276100,Persons,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-01-01,2013,1,2013-01,Professional & Technical Services,Unemployment,50800,Persons,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-01-01,2013,1,2013-01,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2013-01-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Information & Culture,Employment,748000,Persons,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Information & Culture,Unemployment,54000,Persons,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Information & Culture,Unemployment Rate,6.7,Percentage,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Professional & Technical Services,Employment,1291400,Persons,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Professional & Technical Services,Unemployment,47400,Persons,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-02-01,2013,2,2013-02,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2013-02-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Information & Culture,Employment,742900,Persons,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Information & Culture,Unemployment,55700,Persons,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Information & Culture,Unemployment Rate,7,Percentage,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Professional & Technical Services,Employment,1290300,Persons,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Professional & Technical Services,Unemployment,44900,Persons,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-03-01,2013,3,2013-03,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2013-03-01,Q1,2013-Q1,H1,2013-H1
+2013-04-01,2013,4,2013-04,Information & Culture,Employment,741800,Persons,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-04-01,2013,4,2013-04,Information & Culture,Unemployment,47800,Persons,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-04-01,2013,4,2013-04,Information & Culture,Unemployment Rate,6.1,Percentage,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-04-01,2013,4,2013-04,Professional & Technical Services,Employment,1301800,Persons,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-04-01,2013,4,2013-04,Professional & Technical Services,Unemployment,56000,Persons,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-04-01,2013,4,2013-04,Professional & Technical Services,Unemployment Rate,4.1,Percentage,2013-04-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Information & Culture,Employment,752700,Persons,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Information & Culture,Unemployment,51800,Persons,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Information & Culture,Unemployment Rate,6.4,Percentage,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Professional & Technical Services,Employment,1296800,Persons,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Professional & Technical Services,Unemployment,53300,Persons,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-05-01,2013,5,2013-05,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2013-05-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Information & Culture,Employment,746800,Persons,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Information & Culture,Unemployment,56700,Persons,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Information & Culture,Unemployment Rate,7.1,Percentage,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Professional & Technical Services,Employment,1306300,Persons,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Professional & Technical Services,Unemployment,51500,Persons,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-06-01,2013,6,2013-06,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2013-06-01,Q2,2013-Q2,H1,2013-H1
+2013-07-01,2013,7,2013-07,Information & Culture,Employment,726700,Persons,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-07-01,2013,7,2013-07,Information & Culture,Unemployment,58400,Persons,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-07-01,2013,7,2013-07,Information & Culture,Unemployment Rate,7.4,Percentage,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-07-01,2013,7,2013-07,Professional & Technical Services,Employment,1324000,Persons,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-07-01,2013,7,2013-07,Professional & Technical Services,Unemployment,44500,Persons,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-07-01,2013,7,2013-07,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2013-07-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Information & Culture,Employment,747600,Persons,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Information & Culture,Unemployment,42800,Persons,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Information & Culture,Unemployment Rate,5.4,Percentage,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Professional & Technical Services,Employment,1320700,Persons,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Professional & Technical Services,Unemployment,48400,Persons,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-08-01,2013,8,2013-08,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2013-08-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Information & Culture,Employment,747100,Persons,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Information & Culture,Unemployment,52200,Persons,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Information & Culture,Unemployment Rate,6.5,Percentage,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Professional & Technical Services,Employment,1319100,Persons,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Professional & Technical Services,Unemployment,46600,Persons,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-09-01,2013,9,2013-09,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2013-09-01,Q3,2013-Q3,H2,2013-H2
+2013-10-01,2013,10,2013-10,Information & Culture,Employment,753600,Persons,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-10-01,2013,10,2013-10,Information & Culture,Unemployment,42900,Persons,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-10-01,2013,10,2013-10,Information & Culture,Unemployment Rate,5.4,Percentage,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-10-01,2013,10,2013-10,Professional & Technical Services,Employment,1327700,Persons,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-10-01,2013,10,2013-10,Professional & Technical Services,Unemployment,50200,Persons,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-10-01,2013,10,2013-10,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2013-10-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Information & Culture,Employment,759600,Persons,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Information & Culture,Unemployment,41300,Persons,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Information & Culture,Unemployment Rate,5.2,Percentage,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Professional & Technical Services,Employment,1323300,Persons,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Professional & Technical Services,Unemployment,45100,Persons,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-11-01,2013,11,2013-11,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2013-11-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Information & Culture,Employment,761400,Persons,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Information & Culture,Unemployment,40200,Persons,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Information & Culture,Unemployment Rate,5,Percentage,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Professional & Technical Services,Employment,1322800,Persons,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Professional & Technical Services,Unemployment,54200,Persons,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2013-12-01,2013,12,2013-12,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2013-12-01,Q4,2013-Q4,H2,2013-H2
+2014-01-01,2014,1,2014-01,Information & Culture,Employment,758700,Persons,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-01-01,2014,1,2014-01,Information & Culture,Unemployment,42700,Persons,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-01-01,2014,1,2014-01,Information & Culture,Unemployment Rate,5.3,Percentage,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-01-01,2014,1,2014-01,Professional & Technical Services,Employment,1326000,Persons,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-01-01,2014,1,2014-01,Professional & Technical Services,Unemployment,57900,Persons,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-01-01,2014,1,2014-01,Professional & Technical Services,Unemployment Rate,4.2,Percentage,2014-01-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Information & Culture,Employment,763000,Persons,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Information & Culture,Unemployment,42000,Persons,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Information & Culture,Unemployment Rate,5.2,Percentage,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Professional & Technical Services,Employment,1321500,Persons,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Professional & Technical Services,Unemployment,54200,Persons,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-02-01,2014,2,2014-02,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2014-02-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Information & Culture,Employment,758400,Persons,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Information & Culture,Unemployment,43600,Persons,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Information & Culture,Unemployment Rate,5.4,Percentage,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Professional & Technical Services,Employment,1324600,Persons,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Professional & Technical Services,Unemployment,59900,Persons,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-03-01,2014,3,2014-03,Professional & Technical Services,Unemployment Rate,4.3,Percentage,2014-03-01,Q1,2014-Q1,H1,2014-H1
+2014-04-01,2014,4,2014-04,Information & Culture,Employment,754500,Persons,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-04-01,2014,4,2014-04,Information & Culture,Unemployment,45400,Persons,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-04-01,2014,4,2014-04,Information & Culture,Unemployment Rate,5.7,Percentage,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-04-01,2014,4,2014-04,Professional & Technical Services,Employment,1323100,Persons,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-04-01,2014,4,2014-04,Professional & Technical Services,Unemployment,53600,Persons,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-04-01,2014,4,2014-04,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2014-04-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Information & Culture,Employment,761600,Persons,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Information & Culture,Unemployment,46300,Persons,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Information & Culture,Unemployment Rate,5.7,Percentage,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Professional & Technical Services,Employment,1325500,Persons,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Professional & Technical Services,Unemployment,56700,Persons,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-05-01,2014,5,2014-05,Professional & Technical Services,Unemployment Rate,4.1,Percentage,2014-05-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Information & Culture,Employment,752000,Persons,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Information & Culture,Unemployment,44500,Persons,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Information & Culture,Unemployment Rate,5.6,Percentage,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Professional & Technical Services,Employment,1331100,Persons,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Professional & Technical Services,Unemployment,51400,Persons,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-06-01,2014,6,2014-06,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2014-06-01,Q2,2014-Q2,H1,2014-H1
+2014-07-01,2014,7,2014-07,Information & Culture,Employment,755200,Persons,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-07-01,2014,7,2014-07,Information & Culture,Unemployment,43200,Persons,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-07-01,2014,7,2014-07,Information & Culture,Unemployment Rate,5.4,Percentage,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-07-01,2014,7,2014-07,Professional & Technical Services,Employment,1329500,Persons,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-07-01,2014,7,2014-07,Professional & Technical Services,Unemployment,57500,Persons,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-07-01,2014,7,2014-07,Professional & Technical Services,Unemployment Rate,4.1,Percentage,2014-07-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Information & Culture,Employment,750300,Persons,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Information & Culture,Unemployment,47000,Persons,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Information & Culture,Unemployment Rate,5.9,Percentage,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Professional & Technical Services,Employment,1332200,Persons,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Professional & Technical Services,Unemployment,44900,Persons,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-08-01,2014,8,2014-08,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2014-08-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Information & Culture,Employment,739600,Persons,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Information & Culture,Unemployment,44700,Persons,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Information & Culture,Unemployment Rate,5.7,Percentage,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Professional & Technical Services,Employment,1318300,Persons,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Professional & Technical Services,Unemployment,53200,Persons,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-09-01,2014,9,2014-09,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2014-09-01,Q3,2014-Q3,H2,2014-H2
+2014-10-01,2014,10,2014-10,Information & Culture,Employment,744900,Persons,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-10-01,2014,10,2014-10,Information & Culture,Unemployment,58500,Persons,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-10-01,2014,10,2014-10,Information & Culture,Unemployment Rate,7.3,Percentage,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-10-01,2014,10,2014-10,Professional & Technical Services,Employment,1321900,Persons,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-10-01,2014,10,2014-10,Professional & Technical Services,Unemployment,40400,Persons,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-10-01,2014,10,2014-10,Professional & Technical Services,Unemployment Rate,3,Percentage,2014-10-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Information & Culture,Employment,752400,Persons,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Information & Culture,Unemployment,50400,Persons,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Information & Culture,Unemployment Rate,6.3,Percentage,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Professional & Technical Services,Employment,1317900,Persons,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Professional & Technical Services,Unemployment,48900,Persons,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-11-01,2014,11,2014-11,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2014-11-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Information & Culture,Employment,750200,Persons,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Information & Culture,Unemployment,49100,Persons,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Information & Culture,Unemployment Rate,6.1,Percentage,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Professional & Technical Services,Employment,1319900,Persons,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Professional & Technical Services,Unemployment,43600,Persons,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2014-12-01,2014,12,2014-12,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2014-12-01,Q4,2014-Q4,H2,2014-H2
+2015-01-01,2015,1,2015-01,Information & Culture,Employment,745500,Persons,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-01-01,2015,1,2015-01,Information & Culture,Unemployment,42100,Persons,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-01-01,2015,1,2015-01,Information & Culture,Unemployment Rate,5.3,Percentage,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-01-01,2015,1,2015-01,Professional & Technical Services,Employment,1341500,Persons,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-01-01,2015,1,2015-01,Professional & Technical Services,Unemployment,43100,Persons,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-01-01,2015,1,2015-01,Professional & Technical Services,Unemployment Rate,3.1,Percentage,2015-01-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Information & Culture,Employment,740100,Persons,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Information & Culture,Unemployment,44700,Persons,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Information & Culture,Unemployment Rate,5.7,Percentage,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Professional & Technical Services,Employment,1340600,Persons,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Professional & Technical Services,Unemployment,45500,Persons,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-02-01,2015,2,2015-02,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2015-02-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Information & Culture,Employment,746700,Persons,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Information & Culture,Unemployment,44000,Persons,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Information & Culture,Unemployment Rate,5.6,Percentage,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Professional & Technical Services,Employment,1334600,Persons,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Professional & Technical Services,Unemployment,44200,Persons,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-03-01,2015,3,2015-03,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2015-03-01,Q1,2015-Q1,H1,2015-H1
+2015-04-01,2015,4,2015-04,Information & Culture,Employment,742700,Persons,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-04-01,2015,4,2015-04,Information & Culture,Unemployment,48500,Persons,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-04-01,2015,4,2015-04,Information & Culture,Unemployment Rate,6.1,Percentage,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-04-01,2015,4,2015-04,Professional & Technical Services,Employment,1340100,Persons,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-04-01,2015,4,2015-04,Professional & Technical Services,Unemployment,43000,Persons,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-04-01,2015,4,2015-04,Professional & Technical Services,Unemployment Rate,3.1,Percentage,2015-04-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Information & Culture,Employment,746200,Persons,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Information & Culture,Unemployment,41300,Persons,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Information & Culture,Unemployment Rate,5.2,Percentage,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Professional & Technical Services,Employment,1343200,Persons,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Professional & Technical Services,Unemployment,39200,Persons,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-05-01,2015,5,2015-05,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2015-05-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Information & Culture,Employment,732100,Persons,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Information & Culture,Unemployment,46200,Persons,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Information & Culture,Unemployment Rate,5.9,Percentage,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Professional & Technical Services,Employment,1345500,Persons,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Professional & Technical Services,Unemployment,47800,Persons,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-06-01,2015,6,2015-06,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2015-06-01,Q2,2015-Q2,H1,2015-H1
+2015-07-01,2015,7,2015-07,Information & Culture,Employment,739400,Persons,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-07-01,2015,7,2015-07,Information & Culture,Unemployment,45300,Persons,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-07-01,2015,7,2015-07,Information & Culture,Unemployment Rate,5.8,Percentage,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-07-01,2015,7,2015-07,Professional & Technical Services,Employment,1356900,Persons,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-07-01,2015,7,2015-07,Professional & Technical Services,Unemployment,44300,Persons,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-07-01,2015,7,2015-07,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2015-07-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Information & Culture,Employment,730300,Persons,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Information & Culture,Unemployment,45400,Persons,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Information & Culture,Unemployment Rate,5.9,Percentage,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Professional & Technical Services,Employment,1374300,Persons,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Professional & Technical Services,Unemployment,56100,Persons,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-08-01,2015,8,2015-08,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2015-08-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Information & Culture,Employment,754900,Persons,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Information & Culture,Unemployment,46900,Persons,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Information & Culture,Unemployment Rate,5.8,Percentage,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Professional & Technical Services,Employment,1372900,Persons,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Professional & Technical Services,Unemployment,49900,Persons,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-09-01,2015,9,2015-09,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2015-09-01,Q3,2015-Q3,H2,2015-H2
+2015-10-01,2015,10,2015-10,Information & Culture,Employment,761500,Persons,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-10-01,2015,10,2015-10,Information & Culture,Unemployment,42900,Persons,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-10-01,2015,10,2015-10,Information & Culture,Unemployment Rate,5.3,Percentage,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-10-01,2015,10,2015-10,Professional & Technical Services,Employment,1362800,Persons,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-10-01,2015,10,2015-10,Professional & Technical Services,Unemployment,55000,Persons,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-10-01,2015,10,2015-10,Professional & Technical Services,Unemployment Rate,3.9,Percentage,2015-10-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Information & Culture,Employment,739800,Persons,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Information & Culture,Unemployment,44900,Persons,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Information & Culture,Unemployment Rate,5.7,Percentage,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Professional & Technical Services,Employment,1382200,Persons,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Professional & Technical Services,Unemployment,48800,Persons,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-11-01,2015,11,2015-11,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2015-11-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Information & Culture,Employment,733500,Persons,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Information & Culture,Unemployment,51500,Persons,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Information & Culture,Unemployment Rate,6.6,Percentage,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Professional & Technical Services,Employment,1384400,Persons,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Professional & Technical Services,Unemployment,55000,Persons,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2015-12-01,2015,12,2015-12,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2015-12-01,Q4,2015-Q4,H2,2015-H2
+2016-01-01,2016,1,2016-01,Information & Culture,Employment,758600,Persons,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-01-01,2016,1,2016-01,Information & Culture,Unemployment,51200,Persons,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-01-01,2016,1,2016-01,Information & Culture,Unemployment Rate,6.3,Percentage,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-01-01,2016,1,2016-01,Professional & Technical Services,Employment,1376300,Persons,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-01-01,2016,1,2016-01,Professional & Technical Services,Unemployment,54000,Persons,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-01-01,2016,1,2016-01,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2016-01-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Information & Culture,Employment,763400,Persons,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Information & Culture,Unemployment,50800,Persons,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Information & Culture,Unemployment Rate,6.2,Percentage,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Professional & Technical Services,Employment,1378400,Persons,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Professional & Technical Services,Unemployment,45400,Persons,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-02-01,2016,2,2016-02,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2016-02-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Information & Culture,Employment,752600,Persons,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Information & Culture,Unemployment,56500,Persons,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Information & Culture,Unemployment Rate,7,Percentage,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Professional & Technical Services,Employment,1380100,Persons,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Professional & Technical Services,Unemployment,46600,Persons,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-03-01,2016,3,2016-03,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2016-03-01,Q1,2016-Q1,H1,2016-H1
+2016-04-01,2016,4,2016-04,Information & Culture,Employment,749100,Persons,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-04-01,2016,4,2016-04,Information & Culture,Unemployment,54800,Persons,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-04-01,2016,4,2016-04,Information & Culture,Unemployment Rate,6.8,Percentage,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-04-01,2016,4,2016-04,Professional & Technical Services,Employment,1382500,Persons,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-04-01,2016,4,2016-04,Professional & Technical Services,Unemployment,47800,Persons,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-04-01,2016,4,2016-04,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2016-04-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Information & Culture,Employment,753200,Persons,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Information & Culture,Unemployment,52900,Persons,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Information & Culture,Unemployment Rate,6.6,Percentage,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Professional & Technical Services,Employment,1378000,Persons,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Professional & Technical Services,Unemployment,45400,Persons,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-05-01,2016,5,2016-05,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2016-05-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Information & Culture,Employment,773700,Persons,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Information & Culture,Unemployment,50100,Persons,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Information & Culture,Unemployment Rate,6.1,Percentage,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Professional & Technical Services,Employment,1373700,Persons,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Professional & Technical Services,Unemployment,49500,Persons,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-06-01,2016,6,2016-06,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2016-06-01,Q2,2016-Q2,H1,2016-H1
+2016-07-01,2016,7,2016-07,Information & Culture,Employment,764300,Persons,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-07-01,2016,7,2016-07,Information & Culture,Unemployment,41100,Persons,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-07-01,2016,7,2016-07,Information & Culture,Unemployment Rate,5.1,Percentage,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-07-01,2016,7,2016-07,Professional & Technical Services,Employment,1362800,Persons,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-07-01,2016,7,2016-07,Professional & Technical Services,Unemployment,52900,Persons,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-07-01,2016,7,2016-07,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2016-07-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Information & Culture,Employment,771600,Persons,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Information & Culture,Unemployment,42000,Persons,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Information & Culture,Unemployment Rate,5.2,Percentage,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Professional & Technical Services,Employment,1352200,Persons,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Professional & Technical Services,Unemployment,57500,Persons,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-08-01,2016,8,2016-08,Professional & Technical Services,Unemployment Rate,4.1,Percentage,2016-08-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Information & Culture,Employment,783700,Persons,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Information & Culture,Unemployment,44300,Persons,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Information & Culture,Unemployment Rate,5.3,Percentage,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Professional & Technical Services,Employment,1361400,Persons,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Professional & Technical Services,Unemployment,51100,Persons,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-09-01,2016,9,2016-09,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2016-09-01,Q3,2016-Q3,H2,2016-H2
+2016-10-01,2016,10,2016-10,Information & Culture,Employment,775000,Persons,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-10-01,2016,10,2016-10,Information & Culture,Unemployment,43200,Persons,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-10-01,2016,10,2016-10,Information & Culture,Unemployment Rate,5.3,Percentage,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-10-01,2016,10,2016-10,Professional & Technical Services,Employment,1360200,Persons,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-10-01,2016,10,2016-10,Professional & Technical Services,Unemployment,54400,Persons,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-10-01,2016,10,2016-10,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2016-10-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Information & Culture,Employment,787500,Persons,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Information & Culture,Unemployment,43500,Persons,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Information & Culture,Unemployment Rate,5.2,Percentage,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Professional & Technical Services,Employment,1367500,Persons,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Professional & Technical Services,Unemployment,46100,Persons,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-11-01,2016,11,2016-11,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2016-11-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Information & Culture,Employment,790300,Persons,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Information & Culture,Unemployment,48800,Persons,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Information & Culture,Unemployment Rate,5.8,Percentage,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Professional & Technical Services,Employment,1386600,Persons,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Professional & Technical Services,Unemployment,47800,Persons,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2016-12-01,2016,12,2016-12,Professional & Technical Services,Unemployment Rate,3.3,Percentage,2016-12-01,Q4,2016-Q4,H2,2016-H2
+2017-01-01,2017,1,2017-01,Information & Culture,Employment,771400,Persons,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-01-01,2017,1,2017-01,Information & Culture,Unemployment,47600,Persons,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-01-01,2017,1,2017-01,Information & Culture,Unemployment Rate,5.8,Percentage,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-01-01,2017,1,2017-01,Professional & Technical Services,Employment,1386700,Persons,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-01-01,2017,1,2017-01,Professional & Technical Services,Unemployment,45400,Persons,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-01-01,2017,1,2017-01,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2017-01-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Information & Culture,Employment,767800,Persons,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Information & Culture,Unemployment,51900,Persons,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Information & Culture,Unemployment Rate,6.3,Percentage,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Professional & Technical Services,Employment,1399200,Persons,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Professional & Technical Services,Unemployment,49500,Persons,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-02-01,2017,2,2017-02,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2017-02-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Information & Culture,Employment,778200,Persons,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Information & Culture,Unemployment,40100,Persons,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Information & Culture,Unemployment Rate,4.9,Percentage,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Professional & Technical Services,Employment,1402000,Persons,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Professional & Technical Services,Unemployment,46800,Persons,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-03-01,2017,3,2017-03,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2017-03-01,Q1,2017-Q1,H1,2017-H1
+2017-04-01,2017,4,2017-04,Information & Culture,Employment,776000,Persons,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-04-01,2017,4,2017-04,Information & Culture,Unemployment,40000,Persons,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-04-01,2017,4,2017-04,Information & Culture,Unemployment Rate,4.9,Percentage,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-04-01,2017,4,2017-04,Professional & Technical Services,Employment,1403300,Persons,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-04-01,2017,4,2017-04,Professional & Technical Services,Unemployment,49900,Persons,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-04-01,2017,4,2017-04,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2017-04-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Information & Culture,Employment,759700,Persons,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Information & Culture,Unemployment,45400,Persons,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Information & Culture,Unemployment Rate,5.6,Percentage,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Professional & Technical Services,Employment,1416300,Persons,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Professional & Technical Services,Unemployment,46900,Persons,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-05-01,2017,5,2017-05,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2017-05-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Information & Culture,Employment,760200,Persons,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Information & Culture,Unemployment,40900,Persons,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Information & Culture,Unemployment Rate,5.1,Percentage,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Professional & Technical Services,Employment,1431800,Persons,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Professional & Technical Services,Unemployment,43900,Persons,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-06-01,2017,6,2017-06,Professional & Technical Services,Unemployment Rate,3,Percentage,2017-06-01,Q2,2017-Q2,H1,2017-H1
+2017-07-01,2017,7,2017-07,Information & Culture,Employment,769700,Persons,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-07-01,2017,7,2017-07,Information & Culture,Unemployment,49800,Persons,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-07-01,2017,7,2017-07,Information & Culture,Unemployment Rate,6.1,Percentage,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-07-01,2017,7,2017-07,Professional & Technical Services,Employment,1443800,Persons,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-07-01,2017,7,2017-07,Professional & Technical Services,Unemployment,39700,Persons,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-07-01,2017,7,2017-07,Professional & Technical Services,Unemployment Rate,2.7,Percentage,2017-07-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Information & Culture,Employment,775300,Persons,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Information & Culture,Unemployment,55000,Persons,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Information & Culture,Unemployment Rate,6.6,Percentage,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Professional & Technical Services,Employment,1445100,Persons,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Professional & Technical Services,Unemployment,37900,Persons,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-08-01,2017,8,2017-08,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2017-08-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Information & Culture,Employment,770800,Persons,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Information & Culture,Unemployment,50700,Persons,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Information & Culture,Unemployment Rate,6.2,Percentage,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Professional & Technical Services,Employment,1450600,Persons,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Professional & Technical Services,Unemployment,44200,Persons,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-09-01,2017,9,2017-09,Professional & Technical Services,Unemployment Rate,3,Percentage,2017-09-01,Q3,2017-Q3,H2,2017-H2
+2017-10-01,2017,10,2017-10,Information & Culture,Employment,777600,Persons,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-10-01,2017,10,2017-10,Information & Culture,Unemployment,55800,Persons,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-10-01,2017,10,2017-10,Information & Culture,Unemployment Rate,6.7,Percentage,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-10-01,2017,10,2017-10,Professional & Technical Services,Employment,1459100,Persons,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-10-01,2017,10,2017-10,Professional & Technical Services,Unemployment,41600,Persons,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-10-01,2017,10,2017-10,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2017-10-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Information & Culture,Employment,783000,Persons,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Information & Culture,Unemployment,46200,Persons,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Information & Culture,Unemployment Rate,5.6,Percentage,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Professional & Technical Services,Employment,1454800,Persons,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Professional & Technical Services,Unemployment,47500,Persons,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-11-01,2017,11,2017-11,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2017-11-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Information & Culture,Employment,779400,Persons,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Information & Culture,Unemployment,51400,Persons,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Information & Culture,Unemployment Rate,6.2,Percentage,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Professional & Technical Services,Employment,1453800,Persons,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Professional & Technical Services,Unemployment,43800,Persons,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2017-12-01,2017,12,2017-12,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2017-12-01,Q4,2017-Q4,H2,2017-H2
+2018-01-01,2018,1,2018-01,Information & Culture,Employment,790000,Persons,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-01-01,2018,1,2018-01,Information & Culture,Unemployment,48500,Persons,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-01-01,2018,1,2018-01,Information & Culture,Unemployment Rate,5.8,Percentage,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-01-01,2018,1,2018-01,Professional & Technical Services,Employment,1439100,Persons,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-01-01,2018,1,2018-01,Professional & Technical Services,Unemployment,42600,Persons,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-01-01,2018,1,2018-01,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2018-01-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Information & Culture,Employment,772700,Persons,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Information & Culture,Unemployment,44300,Persons,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Information & Culture,Unemployment Rate,5.4,Percentage,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Professional & Technical Services,Employment,1433700,Persons,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Professional & Technical Services,Unemployment,43300,Persons,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-02-01,2018,2,2018-02,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2018-02-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Information & Culture,Employment,773000,Persons,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Information & Culture,Unemployment,47900,Persons,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Information & Culture,Unemployment Rate,5.8,Percentage,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Professional & Technical Services,Employment,1443600,Persons,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Professional & Technical Services,Unemployment,41600,Persons,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-03-01,2018,3,2018-03,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2018-03-01,Q1,2018-Q1,H1,2018-H1
+2018-04-01,2018,4,2018-04,Information & Culture,Employment,771100,Persons,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-04-01,2018,4,2018-04,Information & Culture,Unemployment,42000,Persons,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-04-01,2018,4,2018-04,Information & Culture,Unemployment Rate,5.2,Percentage,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-04-01,2018,4,2018-04,Professional & Technical Services,Employment,1460700,Persons,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-04-01,2018,4,2018-04,Professional & Technical Services,Unemployment,38900,Persons,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-04-01,2018,4,2018-04,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2018-04-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Information & Culture,Employment,780300,Persons,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Information & Culture,Unemployment,36600,Persons,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Information & Culture,Unemployment Rate,4.5,Percentage,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Professional & Technical Services,Employment,1471200,Persons,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Professional & Technical Services,Unemployment,42500,Persons,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-05-01,2018,5,2018-05,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2018-05-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Information & Culture,Employment,775000,Persons,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Information & Culture,Unemployment,48200,Persons,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Information & Culture,Unemployment Rate,5.9,Percentage,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Professional & Technical Services,Employment,1483600,Persons,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Professional & Technical Services,Unemployment,40100,Persons,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-06-01,2018,6,2018-06,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2018-06-01,Q2,2018-Q2,H1,2018-H1
+2018-07-01,2018,7,2018-07,Information & Culture,Employment,775600,Persons,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-07-01,2018,7,2018-07,Information & Culture,Unemployment,37600,Persons,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-07-01,2018,7,2018-07,Information & Culture,Unemployment Rate,4.6,Percentage,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-07-01,2018,7,2018-07,Professional & Technical Services,Employment,1492400,Persons,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-07-01,2018,7,2018-07,Professional & Technical Services,Unemployment,45000,Persons,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-07-01,2018,7,2018-07,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2018-07-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Information & Culture,Employment,764900,Persons,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Information & Culture,Unemployment,39000,Persons,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Information & Culture,Unemployment Rate,4.9,Percentage,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Professional & Technical Services,Employment,1469700,Persons,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Professional & Technical Services,Unemployment,43900,Persons,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-08-01,2018,8,2018-08,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2018-08-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Information & Culture,Employment,765900,Persons,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Information & Culture,Unemployment,45000,Persons,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Information & Culture,Unemployment Rate,5.5,Percentage,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Professional & Technical Services,Employment,1472100,Persons,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Professional & Technical Services,Unemployment,43100,Persons,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-09-01,2018,9,2018-09,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2018-09-01,Q3,2018-Q3,H2,2018-H2
+2018-10-01,2018,10,2018-10,Information & Culture,Employment,762900,Persons,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-10-01,2018,10,2018-10,Information & Culture,Unemployment,42200,Persons,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-10-01,2018,10,2018-10,Information & Culture,Unemployment Rate,5.2,Percentage,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-10-01,2018,10,2018-10,Professional & Technical Services,Employment,1473100,Persons,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-10-01,2018,10,2018-10,Professional & Technical Services,Unemployment,41200,Persons,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-10-01,2018,10,2018-10,Professional & Technical Services,Unemployment Rate,2.7,Percentage,2018-10-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Information & Culture,Employment,757300,Persons,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Information & Culture,Unemployment,42000,Persons,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Information & Culture,Unemployment Rate,5.3,Percentage,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Professional & Technical Services,Employment,1496500,Persons,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Professional & Technical Services,Unemployment,43400,Persons,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-11-01,2018,11,2018-11,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2018-11-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Information & Culture,Employment,756100,Persons,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Information & Culture,Unemployment,38600,Persons,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Information & Culture,Unemployment Rate,4.9,Percentage,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Professional & Technical Services,Employment,1498700,Persons,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Professional & Technical Services,Unemployment,39700,Persons,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2018-12-01,2018,12,2018-12,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2018-12-01,Q4,2018-Q4,H2,2018-H2
+2019-01-01,2019,1,2019-01,Information & Culture,Employment,758200,Persons,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-01-01,2019,1,2019-01,Information & Culture,Unemployment,45700,Persons,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-01-01,2019,1,2019-01,Information & Culture,Unemployment Rate,5.7,Percentage,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-01-01,2019,1,2019-01,Professional & Technical Services,Employment,1519300,Persons,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-01-01,2019,1,2019-01,Professional & Technical Services,Unemployment,46400,Persons,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-01-01,2019,1,2019-01,Professional & Technical Services,Unemployment Rate,3,Percentage,2019-01-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Information & Culture,Employment,774200,Persons,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Information & Culture,Unemployment,45300,Persons,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Information & Culture,Unemployment Rate,5.5,Percentage,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Professional & Technical Services,Employment,1536000,Persons,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Professional & Technical Services,Unemployment,49600,Persons,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-02-01,2019,2,2019-02,Professional & Technical Services,Unemployment Rate,3.1,Percentage,2019-02-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Information & Culture,Employment,774700,Persons,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Information & Culture,Unemployment,47100,Persons,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Information & Culture,Unemployment Rate,5.7,Percentage,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Professional & Technical Services,Employment,1536000,Persons,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Professional & Technical Services,Unemployment,50700,Persons,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-03-01,2019,3,2019-03,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2019-03-01,Q1,2019-Q1,H1,2019-H1
+2019-04-01,2019,4,2019-04,Information & Culture,Employment,795500,Persons,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-04-01,2019,4,2019-04,Information & Culture,Unemployment,52600,Persons,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-04-01,2019,4,2019-04,Information & Culture,Unemployment Rate,6.2,Percentage,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-04-01,2019,4,2019-04,Professional & Technical Services,Employment,1529800,Persons,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-04-01,2019,4,2019-04,Professional & Technical Services,Unemployment,47800,Persons,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-04-01,2019,4,2019-04,Professional & Technical Services,Unemployment Rate,3,Percentage,2019-04-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Information & Culture,Employment,786000,Persons,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Information & Culture,Unemployment,56100,Persons,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Information & Culture,Unemployment Rate,6.7,Percentage,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Professional & Technical Services,Employment,1550900,Persons,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Professional & Technical Services,Unemployment,45500,Persons,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-05-01,2019,5,2019-05,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2019-05-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Information & Culture,Employment,799100,Persons,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Information & Culture,Unemployment,46700,Persons,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Information & Culture,Unemployment Rate,5.5,Percentage,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Professional & Technical Services,Employment,1549700,Persons,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Professional & Technical Services,Unemployment,43600,Persons,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-06-01,2019,6,2019-06,Professional & Technical Services,Unemployment Rate,2.7,Percentage,2019-06-01,Q2,2019-Q2,H1,2019-H1
+2019-07-01,2019,7,2019-07,Information & Culture,Employment,791400,Persons,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-07-01,2019,7,2019-07,Information & Culture,Unemployment,50700,Persons,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-07-01,2019,7,2019-07,Information & Culture,Unemployment Rate,6,Percentage,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-07-01,2019,7,2019-07,Professional & Technical Services,Employment,1555600,Persons,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-07-01,2019,7,2019-07,Professional & Technical Services,Unemployment,42300,Persons,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-07-01,2019,7,2019-07,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2019-07-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Information & Culture,Employment,789000,Persons,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Information & Culture,Unemployment,44300,Persons,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Information & Culture,Unemployment Rate,5.3,Percentage,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Professional & Technical Services,Employment,1579400,Persons,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Professional & Technical Services,Unemployment,40400,Persons,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-08-01,2019,8,2019-08,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2019-08-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Information & Culture,Employment,769700,Persons,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Information & Culture,Unemployment,43800,Persons,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Information & Culture,Unemployment Rate,5.4,Percentage,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Professional & Technical Services,Employment,1584200,Persons,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Professional & Technical Services,Unemployment,33400,Persons,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-09-01,2019,9,2019-09,Professional & Technical Services,Unemployment Rate,2.1,Percentage,2019-09-01,Q3,2019-Q3,H2,2019-H2
+2019-10-01,2019,10,2019-10,Information & Culture,Employment,765800,Persons,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-10-01,2019,10,2019-10,Information & Culture,Unemployment,36500,Persons,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-10-01,2019,10,2019-10,Information & Culture,Unemployment Rate,4.5,Percentage,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-10-01,2019,10,2019-10,Professional & Technical Services,Employment,1578900,Persons,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-10-01,2019,10,2019-10,Professional & Technical Services,Unemployment,42200,Persons,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-10-01,2019,10,2019-10,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2019-10-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Information & Culture,Employment,767200,Persons,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Information & Culture,Unemployment,44500,Persons,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Information & Culture,Unemployment Rate,5.5,Percentage,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Professional & Technical Services,Employment,1570000,Persons,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Professional & Technical Services,Unemployment,51100,Persons,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-11-01,2019,11,2019-11,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2019-11-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Information & Culture,Employment,782300,Persons,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Information & Culture,Unemployment,38100,Persons,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Information & Culture,Unemployment Rate,4.6,Percentage,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Professional & Technical Services,Employment,1574600,Persons,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Professional & Technical Services,Unemployment,42500,Persons,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2019-12-01,2019,12,2019-12,Professional & Technical Services,Unemployment Rate,2.6,Percentage,2019-12-01,Q4,2019-Q4,H2,2019-H2
+2020-01-01,2020,1,2020-01,Information & Culture,Employment,782600,Persons,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-01-01,2020,1,2020-01,Information & Culture,Unemployment,37000,Persons,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-01-01,2020,1,2020-01,Information & Culture,Unemployment Rate,4.5,Percentage,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-01-01,2020,1,2020-01,Professional & Technical Services,Employment,1574000,Persons,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-01-01,2020,1,2020-01,Professional & Technical Services,Unemployment,40400,Persons,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-01-01,2020,1,2020-01,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2020-01-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Information & Culture,Employment,780700,Persons,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Information & Culture,Unemployment,43100,Persons,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Information & Culture,Unemployment Rate,5.2,Percentage,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Professional & Technical Services,Employment,1565500,Persons,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Professional & Technical Services,Unemployment,46100,Persons,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-02-01,2020,2,2020-02,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2020-02-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Information & Culture,Employment,660500,Persons,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Information & Culture,Unemployment,91300,Persons,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Information & Culture,Unemployment Rate,12.1,Percentage,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Professional & Technical Services,Employment,1587700,Persons,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Professional & Technical Services,Unemployment,57300,Persons,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-03-01,2020,3,2020-03,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2020-03-01,Q1,2020-Q1,H1,2020-H1
+2020-04-01,2020,4,2020-04,Information & Culture,Employment,582100,Persons,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-04-01,2020,4,2020-04,Information & Culture,Unemployment,116400,Persons,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-04-01,2020,4,2020-04,Information & Culture,Unemployment Rate,16.7,Percentage,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-04-01,2020,4,2020-04,Professional & Technical Services,Employment,1495700,Persons,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-04-01,2020,4,2020-04,Professional & Technical Services,Unemployment,118700,Persons,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-04-01,2020,4,2020-04,Professional & Technical Services,Unemployment Rate,7.4,Percentage,2020-04-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Information & Culture,Employment,586500,Persons,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Information & Culture,Unemployment,140600,Persons,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Information & Culture,Unemployment Rate,19.3,Percentage,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Professional & Technical Services,Employment,1497100,Persons,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Professional & Technical Services,Unemployment,120900,Persons,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-05-01,2020,5,2020-05,Professional & Technical Services,Unemployment Rate,7.5,Percentage,2020-05-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Information & Culture,Employment,649200,Persons,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Information & Culture,Unemployment,201500,Persons,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Information & Culture,Unemployment Rate,23.7,Percentage,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Professional & Technical Services,Employment,1503800,Persons,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Professional & Technical Services,Unemployment,110300,Persons,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-06-01,2020,6,2020-06,Professional & Technical Services,Unemployment Rate,6.8,Percentage,2020-06-01,Q2,2020-Q2,H1,2020-H1
+2020-07-01,2020,7,2020-07,Information & Culture,Employment,661700,Persons,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-07-01,2020,7,2020-07,Information & Culture,Unemployment,166000,Persons,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-07-01,2020,7,2020-07,Information & Culture,Unemployment Rate,20.1,Percentage,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-07-01,2020,7,2020-07,Professional & Technical Services,Employment,1543500,Persons,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-07-01,2020,7,2020-07,Professional & Technical Services,Unemployment,99100,Persons,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-07-01,2020,7,2020-07,Professional & Technical Services,Unemployment Rate,6,Percentage,2020-07-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Information & Culture,Employment,666500,Persons,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Information & Culture,Unemployment,145000,Persons,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Information & Culture,Unemployment Rate,17.9,Percentage,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Professional & Technical Services,Employment,1565200,Persons,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Professional & Technical Services,Unemployment,99800,Persons,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-08-01,2020,8,2020-08,Professional & Technical Services,Unemployment Rate,6,Percentage,2020-08-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Information & Culture,Employment,722400,Persons,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Information & Culture,Unemployment,100200,Persons,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Information & Culture,Unemployment Rate,12.2,Percentage,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Professional & Technical Services,Employment,1592300,Persons,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Professional & Technical Services,Unemployment,82600,Persons,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-09-01,2020,9,2020-09,Professional & Technical Services,Unemployment Rate,4.9,Percentage,2020-09-01,Q3,2020-Q3,H2,2020-H2
+2020-10-01,2020,10,2020-10,Information & Culture,Employment,705400,Persons,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-10-01,2020,10,2020-10,Information & Culture,Unemployment,100800,Persons,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-10-01,2020,10,2020-10,Information & Culture,Unemployment Rate,12.5,Percentage,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-10-01,2020,10,2020-10,Professional & Technical Services,Employment,1628200,Persons,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-10-01,2020,10,2020-10,Professional & Technical Services,Unemployment,81900,Persons,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-10-01,2020,10,2020-10,Professional & Technical Services,Unemployment Rate,4.8,Percentage,2020-10-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Information & Culture,Employment,680700,Persons,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Information & Culture,Unemployment,64500,Persons,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Information & Culture,Unemployment Rate,8.7,Percentage,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Professional & Technical Services,Employment,1619800,Persons,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Professional & Technical Services,Unemployment,64400.00000000001,Persons,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-11-01,2020,11,2020-11,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2020-11-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Information & Culture,Employment,665200,Persons,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Information & Culture,Unemployment,80600,Persons,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Information & Culture,Unemployment Rate,10.8,Percentage,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Professional & Technical Services,Employment,1641300,Persons,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Professional & Technical Services,Unemployment,80100,Persons,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2020-12-01,2020,12,2020-12,Professional & Technical Services,Unemployment Rate,4.7,Percentage,2020-12-01,Q4,2020-Q4,H2,2020-H2
+2021-01-01,2021,1,2021-01,Information & Culture,Employment,645100,Persons,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-01-01,2021,1,2021-01,Information & Culture,Unemployment,106200,Persons,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-01-01,2021,1,2021-01,Information & Culture,Unemployment Rate,14.1,Percentage,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-01-01,2021,1,2021-01,Professional & Technical Services,Employment,1668200,Persons,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-01-01,2021,1,2021-01,Professional & Technical Services,Unemployment,64900.00000000001,Persons,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-01-01,2021,1,2021-01,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2021-01-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Information & Culture,Employment,644600,Persons,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Information & Culture,Unemployment,90500,Persons,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Information & Culture,Unemployment Rate,12.3,Percentage,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Professional & Technical Services,Employment,1653700,Persons,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Professional & Technical Services,Unemployment,61600,Persons,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-02-01,2021,2,2021-02,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2021-02-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Information & Culture,Employment,696900,Persons,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Information & Culture,Unemployment,68000,Persons,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Information & Culture,Unemployment Rate,8.9,Percentage,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Professional & Technical Services,Employment,1659800,Persons,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Professional & Technical Services,Unemployment,51800,Persons,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-03-01,2021,3,2021-03,Professional & Technical Services,Unemployment Rate,3,Percentage,2021-03-01,Q1,2021-Q1,H1,2021-H1
+2021-04-01,2021,4,2021-04,Information & Culture,Employment,679000,Persons,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-04-01,2021,4,2021-04,Information & Culture,Unemployment,55600,Persons,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-04-01,2021,4,2021-04,Information & Culture,Unemployment Rate,7.6,Percentage,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-04-01,2021,4,2021-04,Professional & Technical Services,Employment,1673700,Persons,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-04-01,2021,4,2021-04,Professional & Technical Services,Unemployment,42800,Persons,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-04-01,2021,4,2021-04,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2021-04-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Information & Culture,Employment,683400,Persons,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Information & Culture,Unemployment,63200,Persons,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Information & Culture,Unemployment Rate,8.5,Percentage,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Professional & Technical Services,Employment,1690300,Persons,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Professional & Technical Services,Unemployment,41000,Persons,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-05-01,2021,5,2021-05,Professional & Technical Services,Unemployment Rate,2.4,Percentage,2021-05-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Information & Culture,Employment,704700,Persons,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Information & Culture,Unemployment,61800,Persons,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Information & Culture,Unemployment Rate,8.1,Percentage,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Professional & Technical Services,Employment,1709400,Persons,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Professional & Technical Services,Unemployment,55100,Persons,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-06-01,2021,6,2021-06,Professional & Technical Services,Unemployment Rate,3.1,Percentage,2021-06-01,Q2,2021-Q2,H1,2021-H1
+2021-07-01,2021,7,2021-07,Information & Culture,Employment,716400,Persons,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-07-01,2021,7,2021-07,Information & Culture,Unemployment,55800,Persons,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-07-01,2021,7,2021-07,Information & Culture,Unemployment Rate,7.2,Percentage,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-07-01,2021,7,2021-07,Professional & Technical Services,Employment,1716100,Persons,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-07-01,2021,7,2021-07,Professional & Technical Services,Unemployment,43200,Persons,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-07-01,2021,7,2021-07,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2021-07-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Information & Culture,Employment,733600,Persons,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Information & Culture,Unemployment,48300,Persons,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Information & Culture,Unemployment Rate,6.2,Percentage,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Professional & Technical Services,Employment,1715600,Persons,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Professional & Technical Services,Unemployment,33100,Persons,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-08-01,2021,8,2021-08,Professional & Technical Services,Unemployment Rate,1.9,Percentage,2021-08-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Information & Culture,Employment,749700,Persons,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Information & Culture,Unemployment,52200,Persons,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Information & Culture,Unemployment Rate,6.5,Percentage,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Professional & Technical Services,Employment,1719500,Persons,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Professional & Technical Services,Unemployment,41800,Persons,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-09-01,2021,9,2021-09,Professional & Technical Services,Unemployment Rate,2.4,Percentage,2021-09-01,Q3,2021-Q3,H2,2021-H2
+2021-10-01,2021,10,2021-10,Information & Culture,Employment,766800,Persons,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-10-01,2021,10,2021-10,Information & Culture,Unemployment,46300,Persons,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-10-01,2021,10,2021-10,Information & Culture,Unemployment Rate,5.7,Percentage,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-10-01,2021,10,2021-10,Professional & Technical Services,Employment,1715300,Persons,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-10-01,2021,10,2021-10,Professional & Technical Services,Unemployment,37900,Persons,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-10-01,2021,10,2021-10,Professional & Technical Services,Unemployment Rate,2.2,Percentage,2021-10-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Information & Culture,Employment,783500,Persons,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Information & Culture,Unemployment,49800,Persons,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Information & Culture,Unemployment Rate,6,Percentage,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Professional & Technical Services,Employment,1750000,Persons,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Professional & Technical Services,Unemployment,27600,Persons,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-11-01,2021,11,2021-11,Professional & Technical Services,Unemployment Rate,1.6,Percentage,2021-11-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Information & Culture,Employment,782700,Persons,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Information & Culture,Unemployment,48800,Persons,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Information & Culture,Unemployment Rate,5.9,Percentage,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Professional & Technical Services,Employment,1745800,Persons,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Professional & Technical Services,Unemployment,33500,Persons,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2021-12-01,2021,12,2021-12,Professional & Technical Services,Unemployment Rate,1.9,Percentage,2021-12-01,Q4,2021-Q4,H2,2021-H2
+2022-01-01,2022,1,2022-01,Information & Culture,Employment,738400,Persons,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-01-01,2022,1,2022-01,Information & Culture,Unemployment,87100,Persons,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-01-01,2022,1,2022-01,Information & Culture,Unemployment Rate,10.6,Percentage,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-01-01,2022,1,2022-01,Professional & Technical Services,Employment,1735400,Persons,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-01-01,2022,1,2022-01,Professional & Technical Services,Unemployment,32400,Persons,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-01-01,2022,1,2022-01,Professional & Technical Services,Unemployment Rate,1.8,Percentage,2022-01-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Information & Culture,Employment,813900,Persons,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Information & Culture,Unemployment,45600,Persons,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Information & Culture,Unemployment Rate,5.3,Percentage,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Professional & Technical Services,Employment,1780100,Persons,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Professional & Technical Services,Unemployment,25800,Persons,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-02-01,2022,2,2022-02,Professional & Technical Services,Unemployment Rate,1.4,Percentage,2022-02-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Information & Culture,Employment,809700,Persons,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Information & Culture,Unemployment,39900,Persons,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Information & Culture,Unemployment Rate,4.7,Percentage,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Professional & Technical Services,Employment,1780700,Persons,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Professional & Technical Services,Unemployment,25800,Persons,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-03-01,2022,3,2022-03,Professional & Technical Services,Unemployment Rate,1.4,Percentage,2022-03-01,Q1,2022-Q1,H1,2022-H1
+2022-04-01,2022,4,2022-04,Information & Culture,Employment,818400,Persons,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-04-01,2022,4,2022-04,Information & Culture,Unemployment,39500,Persons,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-04-01,2022,4,2022-04,Information & Culture,Unemployment Rate,4.6,Percentage,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-04-01,2022,4,2022-04,Professional & Technical Services,Employment,1802900,Persons,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-04-01,2022,4,2022-04,Professional & Technical Services,Unemployment,38200,Persons,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-04-01,2022,4,2022-04,Professional & Technical Services,Unemployment Rate,2.1,Percentage,2022-04-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Information & Culture,Employment,833000,Persons,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Information & Culture,Unemployment,37200,Persons,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Information & Culture,Unemployment Rate,4.3,Percentage,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Professional & Technical Services,Employment,1813000,Persons,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Professional & Technical Services,Unemployment,39100,Persons,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-05-01,2022,5,2022-05,Professional & Technical Services,Unemployment Rate,2.1,Percentage,2022-05-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Information & Culture,Employment,815800,Persons,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Information & Culture,Unemployment,41700,Persons,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Information & Culture,Unemployment Rate,4.9,Percentage,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Professional & Technical Services,Employment,1835200,Persons,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Professional & Technical Services,Unemployment,40000,Persons,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-06-01,2022,6,2022-06,Professional & Technical Services,Unemployment Rate,2.1,Percentage,2022-06-01,Q2,2022-Q2,H1,2022-H1
+2022-07-01,2022,7,2022-07,Information & Culture,Employment,817000,Persons,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-07-01,2022,7,2022-07,Information & Culture,Unemployment,40300,Persons,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-07-01,2022,7,2022-07,Information & Culture,Unemployment Rate,4.7,Percentage,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-07-01,2022,7,2022-07,Professional & Technical Services,Employment,1835200,Persons,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-07-01,2022,7,2022-07,Professional & Technical Services,Unemployment,26300,Persons,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-07-01,2022,7,2022-07,Professional & Technical Services,Unemployment Rate,1.4,Percentage,2022-07-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Information & Culture,Employment,808600,Persons,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Information & Culture,Unemployment,45200,Persons,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Information & Culture,Unemployment Rate,5.3,Percentage,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Professional & Technical Services,Employment,1833800,Persons,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Professional & Technical Services,Unemployment,42500,Persons,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-08-01,2022,8,2022-08,Professional & Technical Services,Unemployment Rate,2.3,Percentage,2022-08-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Information & Culture,Employment,806700,Persons,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Information & Culture,Unemployment,40400,Persons,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Information & Culture,Unemployment Rate,4.8,Percentage,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Professional & Technical Services,Employment,1837600,Persons,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Professional & Technical Services,Unemployment,50900,Persons,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-09-01,2022,9,2022-09,Professional & Technical Services,Unemployment Rate,2.7,Percentage,2022-09-01,Q3,2022-Q3,H2,2022-H2
+2022-10-01,2022,10,2022-10,Information & Culture,Employment,801900,Persons,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-10-01,2022,10,2022-10,Information & Culture,Unemployment,44400,Persons,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-10-01,2022,10,2022-10,Information & Culture,Unemployment Rate,5.2,Percentage,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-10-01,2022,10,2022-10,Professional & Technical Services,Employment,1856000,Persons,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-10-01,2022,10,2022-10,Professional & Technical Services,Unemployment,45900,Persons,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-10-01,2022,10,2022-10,Professional & Technical Services,Unemployment Rate,2.4,Percentage,2022-10-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Information & Culture,Employment,808900,Persons,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Information & Culture,Unemployment,39500,Persons,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Information & Culture,Unemployment Rate,4.7,Percentage,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Professional & Technical Services,Employment,1852100,Persons,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Professional & Technical Services,Unemployment,47300,Persons,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-11-01,2022,11,2022-11,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2022-11-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Information & Culture,Employment,829100,Persons,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Information & Culture,Unemployment,48500,Persons,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Information & Culture,Unemployment Rate,5.5,Percentage,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Professional & Technical Services,Employment,1862100,Persons,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Professional & Technical Services,Unemployment,43200,Persons,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2022-12-01,2022,12,2022-12,Professional & Technical Services,Unemployment Rate,2.3,Percentage,2022-12-01,Q4,2022-Q4,H2,2022-H2
+2023-01-01,2023,1,2023-01,Information & Culture,Employment,836300,Persons,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-01-01,2023,1,2023-01,Information & Culture,Unemployment,45300,Persons,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-01-01,2023,1,2023-01,Information & Culture,Unemployment Rate,5.1,Percentage,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-01-01,2023,1,2023-01,Professional & Technical Services,Employment,1870300,Persons,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-01-01,2023,1,2023-01,Professional & Technical Services,Unemployment,42600,Persons,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-01-01,2023,1,2023-01,Professional & Technical Services,Unemployment Rate,2.2,Percentage,2023-01-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Information & Culture,Employment,831400,Persons,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Information & Culture,Unemployment,43400,Persons,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Information & Culture,Unemployment Rate,5,Percentage,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Professional & Technical Services,Employment,1862200,Persons,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Professional & Technical Services,Unemployment,53400,Persons,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-02-01,2023,2,2023-02,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2023-02-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Information & Culture,Employment,840200,Persons,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Information & Culture,Unemployment,43800,Persons,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Information & Culture,Unemployment Rate,5,Percentage,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Professional & Technical Services,Employment,1877200,Persons,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Professional & Technical Services,Unemployment,45900,Persons,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-03-01,2023,3,2023-03,Professional & Technical Services,Unemployment Rate,2.4,Percentage,2023-03-01,Q1,2023-Q1,H1,2023-H1
+2023-04-01,2023,4,2023-04,Information & Culture,Employment,849700,Persons,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-04-01,2023,4,2023-04,Information & Culture,Unemployment,54600,Persons,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-04-01,2023,4,2023-04,Information & Culture,Unemployment Rate,6,Percentage,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-04-01,2023,4,2023-04,Professional & Technical Services,Employment,1866700,Persons,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-04-01,2023,4,2023-04,Professional & Technical Services,Unemployment,48000,Persons,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-04-01,2023,4,2023-04,Professional & Technical Services,Unemployment Rate,2.5,Percentage,2023-04-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Information & Culture,Employment,853000,Persons,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Information & Culture,Unemployment,51000,Persons,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Information & Culture,Unemployment Rate,5.6,Percentage,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Professional & Technical Services,Employment,1865900,Persons,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Professional & Technical Services,Unemployment,54700,Persons,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-05-01,2023,5,2023-05,Professional & Technical Services,Unemployment Rate,2.8,Percentage,2023-05-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Information & Culture,Employment,863400,Persons,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Information & Culture,Unemployment,45800,Persons,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Information & Culture,Unemployment Rate,5,Percentage,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Professional & Technical Services,Employment,1871600,Persons,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Professional & Technical Services,Unemployment,51300,Persons,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-06-01,2023,6,2023-06,Professional & Technical Services,Unemployment Rate,2.7,Percentage,2023-06-01,Q2,2023-Q2,H1,2023-H1
+2023-07-01,2023,7,2023-07,Information & Culture,Employment,849500,Persons,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-07-01,2023,7,2023-07,Information & Culture,Unemployment,44900,Persons,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-07-01,2023,7,2023-07,Information & Culture,Unemployment Rate,5,Percentage,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-07-01,2023,7,2023-07,Professional & Technical Services,Employment,1871100,Persons,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-07-01,2023,7,2023-07,Professional & Technical Services,Unemployment,62000,Persons,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-07-01,2023,7,2023-07,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2023-07-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Information & Culture,Employment,849000,Persons,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Information & Culture,Unemployment,52500,Persons,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Information & Culture,Unemployment Rate,5.8,Percentage,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Professional & Technical Services,Employment,1915900,Persons,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Professional & Technical Services,Unemployment,58700,Persons,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-08-01,2023,8,2023-08,Professional & Technical Services,Unemployment Rate,3,Percentage,2023-08-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Information & Culture,Employment,826600,Persons,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Information & Culture,Unemployment,66000,Persons,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Information & Culture,Unemployment Rate,7.4,Percentage,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Professional & Technical Services,Employment,1922900,Persons,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Professional & Technical Services,Unemployment,56700,Persons,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-09-01,2023,9,2023-09,Professional & Technical Services,Unemployment Rate,2.9,Percentage,2023-09-01,Q3,2023-Q3,H2,2023-H2
+2023-10-01,2023,10,2023-10,Information & Culture,Employment,846400,Persons,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-10-01,2023,10,2023-10,Information & Culture,Unemployment,53400,Persons,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-10-01,2023,10,2023-10,Information & Culture,Unemployment Rate,5.9,Percentage,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-10-01,2023,10,2023-10,Professional & Technical Services,Employment,1926400,Persons,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-10-01,2023,10,2023-10,Professional & Technical Services,Unemployment,62700,Persons,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-10-01,2023,10,2023-10,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2023-10-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Information & Culture,Employment,848200,Persons,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Information & Culture,Unemployment,56300,Persons,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Information & Culture,Unemployment Rate,6.2,Percentage,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Professional & Technical Services,Employment,1930600,Persons,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Professional & Technical Services,Unemployment,63500,Persons,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-11-01,2023,11,2023-11,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2023-11-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Information & Culture,Employment,849300,Persons,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Information & Culture,Unemployment,45500,Persons,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Information & Culture,Unemployment Rate,5.1,Percentage,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Professional & Technical Services,Employment,1960400,Persons,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Professional & Technical Services,Unemployment,70800,Persons,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2023-12-01,2023,12,2023-12,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2023-12-01,Q4,2023-Q4,H2,2023-H2
+2024-01-01,2024,1,2024-01,Information & Culture,Employment,839400,Persons,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-01-01,2024,1,2024-01,Information & Culture,Unemployment,53300,Persons,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-01-01,2024,1,2024-01,Information & Culture,Unemployment Rate,6,Percentage,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-01-01,2024,1,2024-01,Professional & Technical Services,Employment,1953500,Persons,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-01-01,2024,1,2024-01,Professional & Technical Services,Unemployment,76000,Persons,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-01-01,2024,1,2024-01,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2024-01-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Information & Culture,Employment,843400,Persons,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Information & Culture,Unemployment,56800,Persons,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Information & Culture,Unemployment Rate,6.3,Percentage,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Professional & Technical Services,Employment,1963800,Persons,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Professional & Technical Services,Unemployment,72200,Persons,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-02-01,2024,2,2024-02,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2024-02-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Information & Culture,Employment,836400,Persons,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Information & Culture,Unemployment,68000,Persons,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Information & Culture,Unemployment Rate,7.5,Percentage,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Professional & Technical Services,Employment,1946700,Persons,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Professional & Technical Services,Unemployment,86300,Persons,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-03-01,2024,3,2024-03,Professional & Technical Services,Unemployment Rate,4.2,Percentage,2024-03-01,Q1,2024-Q1,H1,2024-H1
+2024-04-01,2024,4,2024-04,Information & Culture,Employment,845600,Persons,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-04-01,2024,4,2024-04,Information & Culture,Unemployment,63700,Persons,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-04-01,2024,4,2024-04,Information & Culture,Unemployment Rate,7,Percentage,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-04-01,2024,4,2024-04,Professional & Technical Services,Employment,1967200,Persons,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-04-01,2024,4,2024-04,Professional & Technical Services,Unemployment,70600,Persons,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-04-01,2024,4,2024-04,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2024-04-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Information & Culture,Employment,835700,Persons,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Information & Culture,Unemployment,63000,Persons,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Information & Culture,Unemployment Rate,7,Percentage,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Professional & Technical Services,Employment,1968500,Persons,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Professional & Technical Services,Unemployment,69100,Persons,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-05-01,2024,5,2024-05,Professional & Technical Services,Unemployment Rate,3.4,Percentage,2024-05-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Information & Culture,Employment,831900,Persons,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Information & Culture,Unemployment,71700,Persons,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Information & Culture,Unemployment Rate,7.9,Percentage,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Professional & Technical Services,Employment,1960800,Persons,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Professional & Technical Services,Unemployment,76300,Persons,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-06-01,2024,6,2024-06,Professional & Technical Services,Unemployment Rate,3.7,Percentage,2024-06-01,Q2,2024-Q2,H1,2024-H1
+2024-07-01,2024,7,2024-07,Information & Culture,Employment,838800,Persons,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-07-01,2024,7,2024-07,Information & Culture,Unemployment,74800,Persons,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-07-01,2024,7,2024-07,Information & Culture,Unemployment Rate,8.2,Percentage,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-07-01,2024,7,2024-07,Professional & Technical Services,Employment,1982000,Persons,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-07-01,2024,7,2024-07,Professional & Technical Services,Unemployment,66100,Persons,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-07-01,2024,7,2024-07,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2024-07-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Information & Culture,Employment,839200,Persons,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Information & Culture,Unemployment,60200,Persons,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Information & Culture,Unemployment Rate,6.7,Percentage,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Professional & Technical Services,Employment,1965300,Persons,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Professional & Technical Services,Unemployment,76600,Persons,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-08-01,2024,8,2024-08,Professional & Technical Services,Unemployment Rate,3.8,Percentage,2024-08-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Information & Culture,Employment,860200,Persons,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Information & Culture,Unemployment,59500,Persons,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Information & Culture,Unemployment Rate,6.5,Percentage,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Professional & Technical Services,Employment,1987100,Persons,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Professional & Technical Services,Unemployment,65500,Persons,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-09-01,2024,9,2024-09,Professional & Technical Services,Unemployment Rate,3.2,Percentage,2024-09-01,Q3,2024-Q3,H2,2024-H2
+2024-10-01,2024,10,2024-10,Information & Culture,Employment,855200,Persons,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-10-01,2024,10,2024-10,Information & Culture,Unemployment,66700,Persons,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-10-01,2024,10,2024-10,Information & Culture,Unemployment Rate,7.2,Percentage,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-10-01,2024,10,2024-10,Professional & Technical Services,Employment,1994800,Persons,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-10-01,2024,10,2024-10,Professional & Technical Services,Unemployment,74500,Persons,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-10-01,2024,10,2024-10,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2024-10-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Information & Culture,Employment,854000,Persons,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Information & Culture,Unemployment,63600,Persons,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Information & Culture,Unemployment Rate,6.9,Percentage,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Professional & Technical Services,Employment,2015300,Persons,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Professional & Technical Services,Unemployment,83900,Persons,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-11-01,2024,11,2024-11,Professional & Technical Services,Unemployment Rate,4,Percentage,2024-11-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Information & Culture,Employment,855100,Persons,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Information & Culture,Unemployment,64000,Persons,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Information & Culture,Unemployment Rate,7,Percentage,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Professional & Technical Services,Employment,1997300,Persons,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Professional & Technical Services,Unemployment,82900,Persons,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2024-12-01,2024,12,2024-12,Professional & Technical Services,Unemployment Rate,4,Percentage,2024-12-01,Q4,2024-Q4,H2,2024-H2
+2025-01-01,2025,1,2025-01,Information & Culture,Employment,852500,Persons,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-01-01,2025,1,2025-01,Information & Culture,Unemployment,68900,Persons,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-01-01,2025,1,2025-01,Information & Culture,Unemployment Rate,7.5,Percentage,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-01-01,2025,1,2025-01,Professional & Technical Services,Employment,2019000,Persons,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-01-01,2025,1,2025-01,Professional & Technical Services,Unemployment,76000,Persons,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-01-01,2025,1,2025-01,Professional & Technical Services,Unemployment Rate,3.6,Percentage,2025-01-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Information & Culture,Employment,855700,Persons,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Information & Culture,Unemployment,58800,Persons,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Information & Culture,Unemployment Rate,6.4,Percentage,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Professional & Technical Services,Employment,1986100,Persons,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Professional & Technical Services,Unemployment,88700,Persons,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-02-01,2025,2,2025-02,Professional & Technical Services,Unemployment Rate,4.3,Percentage,2025-02-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Information & Culture,Employment,835400,Persons,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Information & Culture,Unemployment,63100,Persons,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Information & Culture,Unemployment Rate,7,Percentage,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Professional & Technical Services,Employment,1995700,Persons,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Professional & Technical Services,Unemployment,92800,Persons,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-03-01,2025,3,2025-03,Professional & Technical Services,Unemployment Rate,4.4,Percentage,2025-03-01,Q1,2025-Q1,H1,2025-H1
+2025-04-01,2025,4,2025-04,Information & Culture,Employment,848000,Persons,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-04-01,2025,4,2025-04,Information & Culture,Unemployment,63500,Persons,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-04-01,2025,4,2025-04,Information & Culture,Unemployment Rate,7,Percentage,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-04-01,2025,4,2025-04,Professional & Technical Services,Employment,2001900,Persons,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-04-01,2025,4,2025-04,Professional & Technical Services,Unemployment,73000,Persons,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-04-01,2025,4,2025-04,Professional & Technical Services,Unemployment Rate,3.5,Percentage,2025-04-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Information & Culture,Employment,867300,Persons,2025-05-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Information & Culture,Unemployment,66200,Persons,2025-05-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Information & Culture,Unemployment Rate,7.1,Percentage,2025-05-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Professional & Technical Services,Employment,2011800,Persons,2025-05-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Professional & Technical Services,Unemployment,61600,Persons,2025-05-01,Q2,2025-Q2,H1,2025-H1
+2025-05-01,2025,5,2025-05,Professional & Technical Services,Unemployment Rate,3,Percentage,2025-05-01,Q2,2025-Q2,H1,2025-H1
