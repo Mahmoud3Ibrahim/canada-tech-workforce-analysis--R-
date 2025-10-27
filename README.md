@@ -1,6 +1,6 @@
 # Canada Tech Workforce Analysis (R)
 
-This project analyzes the evolution of Canada's technology workforce using open data from Statistics Canada and other labor reports.  
+This project analyzes the evolution of Canada's technology workforce using open data from Statistics Canada and other labour reports.  
 It focuses on how employment in the tech sector has changed between 2011 and 2025, which provinces lead in job creation, and how wages evolved during that time.
 
 > This project was created as part of a data analysis portfolio to demonstrate data wrangling, visualization, and reporting skills in R.
@@ -11,12 +11,12 @@ It focuses on how employment in the tech sector has changed between 2011 and 202
 
 - **Goal:** Understand employment and wage trends in Canada's tech sector between 2011 and 2025.  
 - **Tools:** R (tidyverse, ggplot2, dplyr, lubridate).  
-- **Data:** Statistics Canada labor force datasets (NAICS 54 – Professional, Scientific and Technical Services) and ICTC labor market reports.  
+- **Data:** Statistics Canada labour force datasets (NAICS 54 – Professional, Scientific and Technical Services) and ICTC labour market reports.  
 
 The analysis is divided into three main stages:
-1. Data collection and cleaning.  
-2. Exploratory analysis and visualization.  
-3. Summary insights and interpretation.
+1. Data collection and cleaning  
+2. Exploratory analysis and visualization  
+3. Summary insights and interpretation
 
 ---
 
@@ -41,32 +41,52 @@ output/        # Summary tables and temporary results
 
 ## 4. Visuals
 
-### National Tech Employment Trend (2011–2025)
-![Tech Jobs Growth](visuals/tech_jobs_growth.png)
+### 1. Employment Trends (2011–2025)
+![Employment Trends](visuals/10_interactive_trends_files/01_employment_trends.png)
 
 ---
 
-### Regional Workforce Comparison
-![Tech Workforce by Province](visuals/tech_regions.png)
+### 2. Growth Rates by Year
+![Growth Rates](visuals/10_interactive_trends_files/02_growth_rates.png)
 
 ---
 
-### Wage Growth vs Employment Growth
-![Wage vs Employment](visuals/wage_vs_employment.png)
+### 3. Annual Comparison by Province
+![Annual Comparison](visuals/10_interactive_trends_files/03_annual_comparison.png)
 
 ---
 
-### Gender Representation in Tech
-![Gender Representation](visuals/gender_in_tech.png)
+### 4. Unemployment Rates in Tech Sector
+![Unemployment Rates](visuals/10_interactive_trends_files/04_unemployment_rates.png)
 
 ---
 
-### Provincial Wage Distribution
-![Wage Distribution](visuals/wage_distribution.png)
+### 5. Seasonal Employment Patterns
+![Seasonal Patterns](visuals/10_interactive_trends_files/05_seasonal_patterns.png)
 
 ---
 
-More visuals and charts are included in the Power BI dashboard and R scripts under the `/visuals` folder.
+### 6. Sector Distribution (NAICS 54)
+![Sector Distribution](visuals/10_interactive_trends_files/06_sector_distribution.png)
+
+---
+
+### 7. Post-Pandemic Recovery
+![Recent Recovery](visuals/10_interactive_trends_files/07_recent_recovery.png)
+
+---
+
+### 8. Comprehensive Dashboard Summary
+![Comprehensive Dashboard](visuals/10_interactive_trends_files/08_comprehensive_dashboard.png)
+
+---
+
+### 9. Summary of Growth and Wages
+![Growth Summary](visuals/10_interactive_trends_files/09_growth_summary.png)
+
+---
+
+More visuals and interactive charts are included in the Power BI dashboard and R scripts under the `/visuals` folder.
 
 ---
 
@@ -88,24 +108,24 @@ All datasets were accessed in 2024 for educational and analytical purposes.
    cd canada-tech-workforce-analysis--R-
    ```
 
-2. Open `scripts/clean_data.R` in RStudio and run the following before execution:
+2. Install required packages before running any scripts:
    ```r
    install.packages(c("tidyverse", "dplyr", "ggplot2", "lubridate", "readr"))
    ```
 
 3. Run scripts in order:
-   - `clean_data.R` → prepares and normalizes datasets.  
-   - `analyze_trends.R` → performs EDA and creates plots.  
-   - `export_charts.R` → saves visuals in `/visuals`.
+   - `Data Cleaning.R` → prepares and normalizes datasets  
+   - `Tech Employment Analysis.R` → performs EDA and creates plots  
+   - `Tech Employment Visualization Script.R` → saves visuals in `/visuals/10_interactive_trends_files/`
 
 ---
 
 ## 7. Next Steps
 
-- Build regression models to test relationships between wages and employment growth.  
-- Add time-series forecasting for tech job demand post-2025.  
-- Create an interactive Power BI version of the dashboard for public viewing.  
-- Integrate external datasets (AI, software exports, and immigration data).
+- Add regression models to test relationships between wages and employment growth  
+- Integrate time-series forecasting for job demand post-2025  
+- Create an interactive Power BI dashboard for presentation  
+- Link immigration data to workforce trends
 
 ---
 
