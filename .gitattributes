@@ -1,6 +1,7 @@
 # Ignore HTML output and docs in language stats
 docs/** linguist-vendored
 *.html linguist-generated
+*.js javascript
 
 # Force R as the main language
 *.R linguist-language=R
