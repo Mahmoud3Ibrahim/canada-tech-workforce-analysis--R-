@@ -1,143 +1,164 @@
-# Canada Tech Workforce Analysis (R)
+# Canada Tech Workforce Analysis
 
-This project analyzes the evolution of Canada's technology workforce using open data from Statistics Canada and other labour reports.  
-It focuses on how employment in the tech sector has changed between 2011 and 2025, which provinces lead in job creation, and how wages evolved during that time.
+I've always been curious about how Canada's tech industry has evolved over the years. With all the talk about tech booms, layoffs, and the rise of AI, I wanted to dig into the actual numbers and see what's really happening with tech employment across the country.
 
-> This project was created as part of a data analysis portfolio to demonstrate data wrangling, visualization, and reporting skills in R.
-
----
-
-## 1. Project Overview
-
-- **Goal:** Understand employment and wage trends in Canada's tech sector between 2011 and 2025.  
-- **Tools:** R (tidyverse, ggplot2, dplyr, lubridate).  
-- **Data:** Statistics Canada labour force datasets (NAICS 54 – Professional, Scientific and Technical Services) and ICTC labour market reports.  
-
-The analysis is divided into three main stages:
-1. Data collection and cleaning  
-2. Exploratory analysis and visualization  
-3. Summary insights and interpretation
+This analysis looks at tech workforce trends from 2011 to 2025, examining which provinces are leading the charge in job creation and how wages have shifted over time. I used publicly available data from Statistics Canada and ICTC labour market reports to piece together the story.
 
 ---
 
-## 2. Repository Structure
+## What I Set Out to Do
 
-data/          # Raw and cleaned datasets (.csv)  
-scripts/       # R scripts for cleaning, transformation, and plotting  
-visuals/       # Exported charts and graphs for the README  
-output/        # Summary tables and temporary results  
+I wanted to understand three main things:
+- How much has tech employment actually grown since 2011?
+- Which Canadian provinces are creating the most tech jobs?
+- How have tech salaries changed compared to other industries?
 
----
-
-## 3. Key Insights
-
-- Employment in software, data, and engineering-related roles has grown more than 60% since 2011.  
-- Ontario, British Columbia, and Quebec lead the Canadian tech job market.  
-- The Prairies (Alberta, Manitoba, Saskatchewan) show moderate but consistent growth.  
-- Wage growth in tech fields outpaced the national average by around 20%.  
-- Post-pandemic data shows stabilization, with continued expansion in cloud and AI-related occupations.  
+To answer these questions, I worked with R using tidyverse, ggplot2, and a bunch of other libraries to clean, analyze, and visualize the data. The process involved three main steps: gathering and cleaning the data, exploring patterns through visualization, and pulling out meaningful insights.
 
 ---
 
-## 4. Visuals
+## Project Files
 
-### 1. Employment Trends (2011–2025)
-![Employment Trends](visuals/10_interactive_trends_files/01_employment_trends.png)
+Here's how everything is organized:
 
----
-
-### 2. Growth Rates by Year
-![Growth Rates](visuals/10_interactive_trends_files/02_growth_rates.png)
-
----
-
-### 3. Annual Comparison by Province
-![Annual Comparison](visuals/10_interactive_trends_files/03_annual_comparison.png)
+```
+data/          Raw and cleaned datasets
+visuals/       All the charts and visualizations
+*.R files      R scripts for data cleaning, analysis, and creating visuals
+```
 
 ---
 
-### 4. Unemployment Rates in Tech Sector
-![Unemployment Rates](visuals/10_interactive_trends_files/04_unemployment_rates.png)
+## What I Found
+
+After crunching the numbers, a few patterns really stood out:
+
+**Employment growth has been impressive.** Since 2011, jobs in software, data, and engineering roles have grown by more than 60%. That's substantial growth over a 14-year period.
+
+**Geography matters.** Ontario, British Columbia, and Quebec dominate the tech employment landscape. That's not surprising given Toronto, Vancouver, and Montreal are tech hubs, but the data confirms just how concentrated tech jobs are in these provinces.
+
+**The Prairies are holding steady.** Alberta, Manitoba, and Saskatchewan show moderate but consistent growth. They're not explosive numbers, but they're reliable.
+
+**Tech wages are outpacing other sectors.** Salaries in tech fields have grown about 20% faster than the national average. For people looking at career paths, that's meaningful.
+
+**Post-pandemic stabilization.** After the chaos of 2020-2021, the data shows things have leveled out. There's still expansion happening, especially in cloud computing and AI-related roles, but it's more measured now.
 
 ---
 
-### 5. Seasonal Employment Patterns
-![Seasonal Patterns](visuals/10_interactive_trends_files/05_seasonal_patterns.png)
+## The Visuals
+
+Here's what the data looks like when you map it out. Each chart tells part of the story:
+
+### Employment Trends Over Time (2011–2025)
+This shows the overall trajectory of tech employment. You can see the steady climb, with a noticeable acceleration after 2015.
+
+![Employment Trends](visuals/01_employment_trends.png)
+
+### Year-Over-Year Growth Rates
+Some years had explosive growth, others were more modest. This chart breaks down the annual changes.
+
+![Growth Rates](visuals/02_growth_rates.png)
+
+### Provincial Comparison
+Where are the tech jobs? This visualization compares employment across provinces year by year.
+
+![Annual Comparison](visuals/03_annual_comparison.png)
+
+### Unemployment in the Tech Sector
+Even in a growing sector, unemployment rates fluctuate. Here's how they've changed over time.
+
+![Unemployment Rates](visuals/04_unemployment_rates.png)
+
+### Seasonal Patterns
+Interestingly, tech employment shows some seasonal variation. This chart captures those patterns.
+
+![Seasonal Patterns](visuals/05_seasonal_patterns.png)
+
+### Sector Breakdown (NAICS 54)
+Not all tech jobs are the same. This breaks down employment by specific sectors within the professional services category.
+
+![Sector Distribution](visuals/06_sector_distribution.png)
+
+### Post-Pandemic Recovery
+What happened after COVID-19? This focuses on recent trends and recovery patterns.
+
+![Recent Recovery](visuals/07_recent_recovery.png)
+
+### Comprehensive Dashboard
+All the key metrics in one place. This dashboard gives you the big picture at a glance.
+
+![Comprehensive Dashboard](visuals/08_comprehensive_dashboard.png)
+
+### Growth and Wage Summary
+Finally, here's how employment growth and wage growth stack up against each other.
+
+![Growth Summary](visuals/09_growth_summary.png)
+
+You can also check out the `/visuals` folder for an interactive HTML version with more detailed charts.
 
 ---
 
-### 6. Sector Distribution (NAICS 54)
-![Sector Distribution](visuals/10_interactive_trends_files/06_sector_distribution.png)
+## Data Sources
+
+All the data for this analysis comes from publicly available sources:
+
+- **Statistics Canada** – Labour Force Survey (Table 14-10-0200-01)  
+  [View the data](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020001)
+
+- **ICTC** – Information and Communications Technology Council Reports  
+  [Access reports](https://www.ictc-ctic.ca/research-reports/)
+
+- **Government of Canada Open Data Portal**  
+  [Browse datasets](https://open.canada.ca/en/open-data)
+
+I accessed these datasets in 2024. They're available for anyone to use for educational and analytical purposes.
 
 ---
 
-### 7. Post-Pandemic Recovery
-![Recent Recovery](visuals/10_interactive_trends_files/07_recent_recovery.png)
+## Running This Locally
+
+Want to explore the data yourself? Here's how to get started:
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/Mahmoud3Ibrahim/canada-tech-workforce-analysis--R-
+cd canada-tech-workforce-analysis--R-
+```
+
+**2. Install the required R packages**
+```r
+install.packages(c("tidyverse", "dplyr", "ggplot2", "lubridate", "readr"))
+```
+
+**3. Run the scripts in this order:**
+- Start with `Data Cleaning.R` to prepare the datasets
+- Then run `Tech Employment Analysis.R` for exploratory analysis  
+- Finally, use `Tech Employment Visualization Script.R` to generate all the visuals
+
+The charts will be saved to the `/visuals` folder.
 
 ---
 
-### 8. Comprehensive Dashboard Summary
-![Comprehensive Dashboard](visuals/10_interactive_trends_files/08_comprehensive_dashboard.png)
+## What's Next
+
+There's more I'd like to explore with this data:
+
+- **Statistical modeling** – I want to test whether there's a significant relationship between wage growth and employment growth using regression models.
+
+- **Time-series forecasting** – Predicting tech job demand beyond 2025 would be interesting, especially with AI changing the landscape.
+
+- **Interactive dashboard** – I'm planning to build a Power BI dashboard that makes it easier to explore these trends interactively.
+
+- **Immigration data** – Canada's tech sector relies heavily on immigration. Connecting that data to workforce trends could reveal some interesting patterns.
 
 ---
 
-### 9. Summary of Growth and Wages
-![Growth Summary](visuals/10_interactive_trends_files/09_growth_summary.png)
+## About Me
+
+I'm **Mahmoud Ibrahim**, based in Ottawa, Canada. I work in data analysis and web development, and I'm always looking for interesting datasets to explore. If you want to connect or have questions about this analysis, you can find me on [LinkedIn](https://www.linkedin.com/in/mahmoud3ibrahim).
 
 ---
 
-More visuals and interactive charts are included in the Power BI dashboard and R scripts under the `/visuals` folder.
+## License
 
----
-
-## 5. Data Sources
-
-- [Statistics Canada – Labour Force Survey (Table 14-10-0200-01)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020001)  
-- [ICTC – Information and Communications Technology Council Reports](https://www.ictc-ctic.ca/research-reports/)  
-- [Government of Canada Open Data Portal](https://open.canada.ca/en/open-data)  
-
-All datasets were accessed in 2024 for educational and analytical purposes.
-
----
-
-## 6. How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mahmoud3Ibrahim/canada-tech-workforce-analysis--R-
-   cd canada-tech-workforce-analysis--R-
-   ```
-
-2. Install required packages before running any scripts:
-   ```r
-   install.packages(c("tidyverse", "dplyr", "ggplot2", "lubridate", "readr"))
-   ```
-
-3. Run scripts in order:
-   - `Data Cleaning.R` → prepares and normalizes datasets  
-   - `Tech Employment Analysis.R` → performs EDA and creates plots  
-   - `Tech Employment Visualization Script.R` → saves visuals in `/visuals/10_interactive_trends_files/`
-
----
-
-## 7. Next Steps
-
-- Add regression models to test relationships between wages and employment growth  
-- Integrate time-series forecasting for job demand post-2025  
-- Create an interactive Power BI dashboard for presentation  
-- Link immigration data to workforce trends
-
----
-
-## 8. Author
-
-**Mahmoud Ibrahim**  
-Ottawa, Canada  
-Data Analysis and Web Development  
-[LinkedIn](https://www.linkedin.com/in/mahmoud3ibrahim)
-
----
-
-## 9. License
-
-MIT License
+This project is available under the MIT License. Feel free to use it for your own learning or analysis.
